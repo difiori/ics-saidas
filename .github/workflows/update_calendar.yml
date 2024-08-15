@@ -5,6 +5,7 @@ on:
     # Configura para rodar todos os dias às 12:00 UTC e às 19:00 UTC
     - cron: '0 12 * * *'
     - cron: '0 19 * * *'
+  workflow_dispatch:  # Isso adiciona a opção de execução manual
 
 jobs:
   update-calendar:
