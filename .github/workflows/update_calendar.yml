@@ -1,0 +1,38 @@
+name: Atualizar Calendário
+
+on:
+  schedule:
+    # Configura para rodar todos os dias às 12:00 UTC e às 19:00 UTC
+    - cron: '0 12 * * *'
+    - cron: '0 19 * * *'
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests ics
+
+    - name: Run script to generate .ics
+      run: |
+        python saidas.py
+
+    - name: Commit and push updated .ics file
+      run: |
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git add saidas.ics
+        git commit -m "Atualização automática do calendário .ics"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
