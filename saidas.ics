@@ -2,2577 +2,2583 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:Status: Pago\nCategoria: Tarifas Bancárias\nTotal: R$ 0\,12\nConta: Conta Itaú
-SUMMARY:IOF
-UID:63366bf0-e379-4bfe-9ef1-69f4f6f175a6@6336.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241120
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 155\,32\nConta: Conta C6 (CNPJ)
-SUMMARY:Pro Labore
-UID:c5307990-a384-4ceb-9e92-620a185c7da7@c530.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241017
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 46\,90\nCartão de Crédito: Cartão BrasilCard
-SUMMARY:Roteador 02/10
-UID:73abc372-e86f-4d86-ac41-f125e3768cff@73ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240921
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 21\,48\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mini Extra
-UID:9a48794a-8f82-400a-b69b-07ae66ece1b5@9a48.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240920
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 17\,37\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mini Extra
-UID:b2416b0c-d029-464b-aa31-ba46569082b5@b241.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240830
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 29\,99\nConta: Conta C6 (CPF)
-SUMMARY:Drogasil
-UID:7dac8aa3-94f0-4cbe-87b7-625d4a06b896@7dac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240806
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 10\,44\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:29419135-b56d-4384-a1a8-4aca8fff6473@2941.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240915
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 49\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:iCloud
-UID:b1968e39-556d-4a81-8555-85587f74715e@b196.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 283\,19\nCartão Pluxee: Pluxee VR
-SUMMARY:Frutifica
-UID:76370be3-d5e3-4178-8047-2513ee799b62@7637.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241003
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 581\,40\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Macbook 04/10
-UID:5f11ff87-58a0-47c9-876d-d8b87d01c578@5f11.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240805
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 27\,49\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:d0e57880-596d-47a7-92d1-5cbd43c70c3e@d0e5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241210
-DESCRIPTION:Status: A pagar\nCategoria: Empréstimos\nTotal: R$ 933\,19\nConta: Conta Nubank
-SUMMARY:Empréstimo NuBank CPF 02/36
-UID:f703fd21-6922-4505-aa8a-a47ecb4da31f@f703.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240812
-DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 44\,98\nConta: Conta C6 (CPF)
-SUMMARY:iFood
-UID:34697b9f-e2b6-47b5-aae7-c0e654c538db@3469.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 12\,29\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mini Extra
-UID:26914e52-7aa8-4637-b93b-7aaad32175a7@2691.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241217
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 46\,90\nCartão de Crédito: Cartão BrasilCard
-SUMMARY:Roteador 04/10
-UID:759f3546-b3de-452d-8d66-952aa57c9179@759f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241016
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 87\,47\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Amazon 03/03
-UID:77da0e54-99a2-41ad-9207-523218be3cf6@77da.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240828
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 6\,68\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:79568c6e-af9f-4e1f-9c23-69cffe0aa396@7956.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240725
-DESCRIPTION:Status: Pago\nCategoria: Transporte\nTotal: R$ 52\,60\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:99 App
-UID:2d90eb30-ce67-4fc9-9022-f59fde721eea@2d90.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240921
-DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 76\,90\nCartão de Crédito: Cartão Nubank
-SUMMARY:Genshin
-UID:3e82232f-d932-4644-8614-e306e11bd7c4@3e82.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240918
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 6\,00\nConta: Conta Itaú
-SUMMARY:Padaria
-UID:3aef2d04-c905-42dc-a170-98dda8382fdb@3aef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240907
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 44\,48\nConta: Conta Itaú
-SUMMARY:Chama
-UID:c619f21b-c8cf-4473-a1cd-12918922f1e8@c619.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.008\,31\nConta: Conta C6 (CPF)
-SUMMARY:Condomínio
-UID:afd3e000-56f3-45a4-8327-13c99fb830a9@afd3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 26\,38\nConta: Conta Itaú
-SUMMARY:Minimart
-UID:33644d49-46d4-46f9-8b8e-30727bee0f83@3364.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240826
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 316\,80\nConta: Conta Itaú
-SUMMARY:Frutifica
-UID:63d70a6c-a194-4026-b66b-5c5fbc1ae2ba@63d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240803
-DESCRIPTION:Status: Pago\nCategoria: Transporte\nTotal: R$ 26\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Uber
-UID:324a5680-66d9-4388-b712-f39b7a325707@324a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241130
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 9\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Meli+
-UID:6cec6a9e-3480-4f0c-8ff1-7e0a2da2f36e@6cec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240909
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 121\,82\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Compra Zelo 04/06
-UID:ec53764c-931c-4a58-8853-e3a4c8ac7647@ec53.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240922
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 15\,27\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mini Extra
-UID:9eec8752-da9f-45ec-b6e3-939422050c9d@9eec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240911
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 8\,00\nConta: Conta Itaú
-SUMMARY:Brownie Ginga
-UID:46fb5875-27ee-40de-b5c6-bce74cff40d1@46fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240830
-DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 65\,42\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Mercado Livre
-UID:307b7a38-7a58-4ad3-83b2-f9f10f004341@307b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240921
-DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 25\,90\nCartão de Crédito: Cartão Nubank
-SUMMARY:Genshin
-UID:11aba738-0ddf-4f94-acbb-a955dd62293f@11ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240815
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 25\,24\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:d066e51c-dec0-422d-8258-d2cf33382c00@d066.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241009
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 158\,33\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Colchão 05/12
-UID:039df693-1628-4a55-a9ba-3f7e349096cb@039d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240924
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 6\,79\nConta: Conta Itaú
-SUMMARY:Minimart
-UID:078a1b2e-1b26-455c-b24b-8d2c170361a0@078a.org
+DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 119\,69\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Ração Gatos 02/03
+UID:7946384c-f6f9-4627-a3fb-db6766b25321@7946.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240809
 DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 36\,83\nConta: Conta C6 (CPF)
 SUMMARY:Mini Extra
-UID:5fc43036-5b1a-4b72-80bf-432a7e9dc567@5fc4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 13\,00\nConta: Conta Itaú
-SUMMARY:Mini Extra
-UID:96595ebc-7177-4fc8-9e3b-74f8a0f02060@9659.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241007
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 120\,00\nConta: Conta Itaú
-SUMMARY:Internet Vivo
-UID:5cb94e3e-8bb7-479f-9640-0129cea2342e@5cb9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 55\,00\nConta: Conta Itaú
-SUMMARY:Imposto MEI
-UID:805fb5a5-f933-4eb2-b09f-842afdcf795a@805f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240906
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 44\,65\nConta: Conta Itaú
-SUMMARY:Mini Extra
-UID:6b51707a-f8f6-45c1-b221-5dba5789f29f@6b51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240914
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 10\,00\nConta: Conta Itaú
-SUMMARY:Padaria
-UID:d3abe606-4d60-45f5-8d08-e1b196ca23a0@d3ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 300\,00\nConta: Conta C6 (CNPJ)
-SUMMARY:Contador
-UID:257a93df-0812-46ab-838d-f8d1f245f37e@257a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240831
-DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ 49\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Genshin
-UID:2069ff08-e25f-447d-8605-c19825fbbee3@2069.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240918
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 99\,50\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 02/02
-UID:8f753c9e-55ed-428c-b7bc-93f9dbc9b537@8f75.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241220
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 810\,00\nConta: Conta C6 (CNPJ)
-SUMMARY:Guia de Imposto
-UID:5668f970-4a27-4282-a16a-4220cf99a0c4@5668.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240924
-DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 82\,59\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 02/02
-UID:d2706036-9cee-4a88-ab6c-608ff6297500@d270.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241108
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 11\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Apple Music
-UID:990f6ae2-74a1-424c-b635-8f5a73183922@990f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 106\,09\nConta: Conta C6 (CPF)
-SUMMARY:Enel
-UID:7bfcb0ac-2fb7-48fc-8d6e-43b021a60ee8@7bfc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240822
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 20\,28\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:9d1a4343-e111-42d5-8d41-eeb45b127c02@9d1a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241120
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 55\,00\nConta: Conta Itaú
-SUMMARY:Imposto MEI
-UID:72541110-77bf-4fc5-9d5c-5081c21a33b8@7254.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250103
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 64\,87\nConta: Conta C6 (CPF)
-SUMMARY:Recovery 05/06
-UID:2a7de54b-633e-41d8-822b-794351d88c2a@2a7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241030
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 9\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Meli+
-UID:28a9915c-59d8-4337-9331-fc1692cbb7a8@28a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240811
-DESCRIPTION:Status: Pago\nCategoria: Empréstimos\nTotal: R$ 334\,30\nConta: Conta C6 (CPF)
-SUMMARY:Empréstimo Recarga Pay
-UID:6ae5b4d4-836a-40ed-a8ca-098ecfee71bc@6ae5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241116
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 87\,47\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Amazon 03/03
-UID:7e2b4789-eb9e-4429-8a88-1da8a6db3a48@7e2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240902
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 22\,98\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Mini Extra
-UID:62afbf5e-1904-478f-9ac7-ba755f684671@62af.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:Status: Cheque Especial\nCategoria: Entretenimento\nTotal: R$ 550\,00
-SUMMARY:Pix Genshin
-UID:4596c151-69ce-4462-b808-93df7337c3b6@4596.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240914
-DESCRIPTION:Status: A pagar\nCategoria: Transporte\nTotal: R$ 39\,98\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Uber
-UID:6441cb10-171f-4b76-a2f7-dea818c7bd88@6441.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241005
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 803\,20\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:iPhone 10/10
-UID:51f25e2a-b0bd-49da-8655-e062ec257a57@51f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250110
-DESCRIPTION:Status: A pagar\nCategoria: Empréstimos\nTotal: R$ 933\,19\nConta: Conta Nubank
-SUMMARY:Empréstimo NuBank CPF 02/36
-UID:a4d030d2-63d1-4c25-bbb4-5ead23b4a5d9@a4d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240906
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 21\,89\nConta: Conta Itaú
-SUMMARY:Mini Extra
-UID:42fa25bd-e500-4c95-b8c6-9e8601ed7edc@42fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240911
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 45\,00\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Vivo Easy
-UID:dfcaebfe-c15a-4fe7-9019-56bff9597b34@dfca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 50\,00\nCartão de Crédito: Cartão Neon
-SUMMARY:BoboVr 03/06
-UID:01ba5614-6623-4745-a023-3738216c8479@01ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241014
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 103\,30\nCartão de Crédito: Cartão BrasilCard
-SUMMARY:AliExpress 01/12
-UID:21c36ece-31fc-4e38-9318-fe633abdfa54@21c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 340\,00\nConta: Conta C6 (CNPJ)
-SUMMARY:Parcelamento Imposto
-UID:23b7f7a8-0144-419a-8e0b-2d1eac2c6858@23b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241110
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 182\,17\nConta: Conta C6 (CPF)
-SUMMARY:Cartão BrasilCard 02/12
-UID:7e3e4204-d1bc-4c7d-a5fa-1d633e14289e@7e3e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240831
-DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ 499\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Genshin
-UID:8f2ef323-fe84-417f-97be-4822210f0741@8f2e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 106\,09\nConta: Conta C6 (CPF)
-SUMMARY:Enel
-UID:26b259bd-30f4-4795-bca6-6d997e0ae0d5@26b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240910
-DESCRIPTION:Status: Pago\nCategoria: Contas mãe\nTotal: R$ 1.473\,81\nConta: Conta Itaú
-SUMMARY:Cartão Daycoval
-UID:e7f7eaa1-3680-4e45-9f0d-283b441375ba@e7f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240906
-DESCRIPTION:Status: A pagar\nCategoria: Delivery\nTotal: R$ 59\,90\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Pizza
-UID:6755d251-dd1e-4fae-b6f7-99a253cc78d9@6755.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:Status: Cheque Especial\nCategoria: Tarifas Bancárias\nTotal: R$ 48\,36
-SUMMARY:Serasa Enel
-UID:6512ccc5-24ed-493e-95bc-66ebf8fceb04@6512.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250110
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 182\,17\nConta: Conta C6 (CPF)
-SUMMARY:Cartão BrasilCard 04/12
-UID:1cba9df3-0055-44f9-b81b-a20a3b8ea744@1cba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241006
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 122\,90\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Meta Quest 3 02/10
-UID:5762c790-6d7e-4b02-9c39-c9bd1250acef@5762.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250105
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 455\,13\nConta: Conta C6 (CPF)
-SUMMARY:Condomínio Lello
-UID:2f72fb12-c93f-4204-88ba-a55ecf19a12e@2f72.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240804
-DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 354\,18\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Juneve
-UID:3327ee4a-8623-4920-8bde-c0911235f6e5@3327.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240916
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 16\,98\nConta: Conta Itaú
-SUMMARY:Mini Extra
-UID:33f2a5a9-ec03-4e80-ad4f-97a677144392@33f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241007
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 750\,00\nConta: Conta Itaú
-SUMMARY:PIX
-UID:284a7e7f-f37c-4928-b201-6bc9e3d1f7f4@284a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241206
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 122\,90\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Meta Quest 3 04/10
-UID:a5b12271-5f08-4235-863e-57eab4bf4e23@a5b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240831
-DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ -500\,00\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Adiantamento
-UID:0ab64ec4-0c88-4092-9629-b5da99a2ddc7@0ab6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240825
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 24\,42\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:a0038163-5376-43e9-b83c-3eff030f46c9@a003.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 120\,00\nConta: Conta C6 (CPF)
-SUMMARY:Internet Vivo
-UID:c984c174-813b-4a57-9e76-908a7afbb96f@c984.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240910
-DESCRIPTION:Status: A pagar\nCategoria: Farmácia\nTotal: R$ 61\,61\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Velija 02/02
-UID:facbbd29-d502-4d43-8add-dd4ba66bb7bc@facb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241007
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 562\,23\nConta: Conta Itaú
-SUMMARY:Caixa Habitação
-UID:6992ee77-bbf7-459c-8f23-33f386a3589f@6992.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 106\,09\nConta: Conta C6 (CPF)
-SUMMARY:Enel
-UID:d89b126c-8a50-4d84-9a83-7a99fc5f397d@d89b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240821
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 313\,80\nConta: Conta C6 (CPF)
-SUMMARY:Frutifica
-UID:5b11dd28-fdea-46d0-b1ea-2addbc2b09b1@5b11.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241110
-DESCRIPTION:Status: A pagar\nCategoria: Educação\nTotal: R$ 284\,90\nConta: Conta C6 (CPF)
-SUMMARY:Anhembi Morumbi
-UID:db12de9a-0be1-423a-a204-476d5332ef92@db12.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240906
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 26\,49\nConta: Conta Itaú
-SUMMARY:Mini Extra
-UID:94099d3a-9f1b-4d27-85ea-f6c1d1f39d20@9409.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 75\,54\nConta: Conta C6 (CPF)
-SUMMARY:Tim Celular
-UID:576d6d20-074a-4a12-a24c-a944a34dc35a@576d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240817
-DESCRIPTION:Status: Pago\nCategoria: Assinaturas\nTotal: R$ 4\,95\nConta: Conta C6 (CPF)
-SUMMARY:iFood Clube
-UID:b6c4c5fc-c13a-4fd1-9088-48621c6298c1@b6c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240820
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 13\,49\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:a12facc6-bb4d-42e3-818c-f39d4932940e@a12f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241220
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 55\,00\nConta: Conta Itaú
-SUMMARY:Imposto MEI
-UID:72a332aa-7414-485c-bc45-de9d421491b1@72a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240726
-DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 125\,40\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre
-UID:aa7c47ef-eced-46fe-989d-88565da3b19d@aa7c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241120
-DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 238\,19\nConta: Conta C6 (CNPJ)
-SUMMARY:Convênio Médico GNDI
-UID:68ffbe88-e24e-490b-b2d3-e190de1defdd@68ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241105
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 120\,00\nConta: Conta C6 (CPF)
-SUMMARY:Internet Vivo
-UID:eb9d9c97-bb04-46a7-83df-d7e4a684a07f@eb9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240815
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 58\,45\nConta: Conta C6 (CPF)
-SUMMARY:Frutifica
-UID:1eabdfa7-8917-4ec7-bbf2-6d591c3465ab@1eab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 273\,84\nConta: Conta Itaú
-SUMMARY:Claro Residencial
-UID:9e1bbda5-8521-4a0a-a43c-dafd9613442e@9e1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241115
-DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 169\,66\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Convênio PetLove
-UID:45c3e634-ff9f-4663-ab3f-95a13a8ccf81@45c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240905
-DESCRIPTION:Status: Pago\nCategoria: Contas mãe\nTotal: R$ 446\,59\nConta: Conta Itaú
-SUMMARY:PIX
-UID:fd6cf971-efb5-45b9-8bbc-ef282dd8659d@fd6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240901
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 7\,50\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:dcf92067-0421-46e8-bca4-1492036c46da@dcf9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 97\,48\nConta: Conta C6 (CPF)
-SUMMARY:Farmácia
-UID:32ff6c59-2942-4408-a775-14ceed5ceec5@32ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240913
-DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 58\,84\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:App Meta Quest
-UID:9d270da1-b150-4fa2-a30c-b718718693d7@9d27.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240919
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 10\,49\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mini Extra
-UID:975d9c76-5570-40cb-9e3a-d11f18aefc16@975d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240905
-DESCRIPTION:Status: Pago\nCategoria: Apartamento\nTotal: R$ 339\,65\nConta: Conta Itaú
-SUMMARY:Enel Apartamento
-UID:e079a167-5f34-4a2e-b267-f4a8be082b5f@e079.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240826
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 11\,49\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:f5699b60-94e6-474d-a655-af292ed28cef@f569.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240823
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 17\,00\nConta: Conta C6 (CPF)
-SUMMARY:Akitem
-UID:cf0155f0-204c-4a26-b09b-8ef39968cb88@cf01.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 97\,48\nConta: Conta C6 (CPF)
-SUMMARY:Farmácia
-UID:8a96eebd-66ef-4216-b578-329dd68f051f@8a96.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240810
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 220\,00\nCartão Pluxee: Pluxee VA
-SUMMARY:Chama
-UID:e782caba-fc30-44dc-9888-226bb2faf3ae@e782.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240913
-DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 47\,28\nCartão de Crédito: Cartão Nubank
-SUMMARY:Areia gatos
-UID:d555aaa2-1313-4d05-85e7-5c893e26531c@d555.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241211
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 49\,83\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:BoboVr 04/06
-UID:5e8efc92-d2b7-4bc1-a906-44436bf260dc@5e8e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.008\,31\nConta: Conta C6 (CPF)
-SUMMARY:Condomínio
-UID:4880885d-f14e-4717-ba11-a87bdde4e889@4880.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240909
-DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 88\,70\nCartão de Crédito: Cartão Nubank
-SUMMARY:Seguro Celular
-UID:38287782-50b1-4e36-a4ed-7cfe0d131a49@3828.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240818
-DESCRIPTION:Status: Pago\nCategoria: Assinaturas\nTotal: R$ 99\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Chat GPT
-UID:8c4a59c3-01bf-419b-9f0f-16522e2ec96f@8c4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240914
-DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ 175\,00\nConta: Conta Itaú
-SUMMARY:Tatuagem
-UID:6a647460-5e35-4802-a9e0-e20666e2bfdf@6a64.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240911
-DESCRIPTION:Status: A pagar\nCategoria: Transporte\nTotal: R$ 36\,97\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Uber
-UID:4935d99e-3d1c-4fb4-929b-5c896d8025d8@4935.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240815
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 7\,88\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:cd478b8d-7852-479c-b38e-587de294f63d@cd47.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240906
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 199\,62\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Cápsulas
-UID:042117c8-978c-4149-8322-ce9f18bf30d6@0421.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241210
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 120\,00\nConta: Conta Itaú
-SUMMARY:Capitalização Itaú 04/60
-UID:56e27276-3e8e-4404-8184-4a06cff8e6c3@56e2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241109
-DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 88\,70\nCartão de Crédito: Cartão Nubank
-SUMMARY:Seguro Celular
-UID:065eaabc-7813-46d4-a152-6c3cb5746d03@065e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241011
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 50\,00\nCartão de Crédito: Cartão Neon
-SUMMARY:BoboVr 02/06
-UID:f984bfee-aa08-4783-a79a-8ec77b4d78e6@f984.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240816
-DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 87\,47\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Amazon 02/03
-UID:1b480394-1a2f-4092-80b5-daba8960de86@1b48.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240922
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 41\,90\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Bacio di Latte
-UID:e6f83439-1647-4869-9ea8-305b7a508980@e6f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240914
-DESCRIPTION:Status: A pagar\nCategoria: Farmácia\nTotal: R$ 63\,67\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Drogasil
-UID:ba8fada8-d8a4-4bca-9ff3-fb72a3de75e8@ba8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240812
-DESCRIPTION:Status: Pago\nCategoria: Empréstimos\nTotal: R$ 933\,19\nConta: Conta Nubank
-SUMMARY:Empréstimo NuBank CPF 02/36
-UID:f8cc76ba-cbaa-44d9-ab07-21cac7d396e9@f8cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240830
-DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 85\,97\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Drogasil
-UID:fbdc0b01-4685-4e0f-89de-b52817a6cfd3@fbdc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241018
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 99\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Chat GPT
-UID:fbdf4adb-694c-4ee2-bb3f-763c321e781d@fbdf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240914
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 20\,67\nConta: Conta Itaú
-SUMMARY:Oxxo
-UID:5cdd1047-df8c-4d88-bd2d-2003a27e2f6e@5cdd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240920
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 9\,29\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mini Extra
-UID:d1fc1a3c-3c24-4200-aa5e-c1554bb9ef17@d1fc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240810
-DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 120\,76\nConta: Conta C6 (CPF)
-SUMMARY:Farmácia
-UID:b208922c-8d17-4aed-813a-723bc7b24fd0@b208.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240905
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 803\,20\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:iPhone 09/10
-UID:efff9b92-261e-4a03-b4c2-69bd5e20345b@efff.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240827
-DESCRIPTION:Status: Pago\nCategoria: Contas mãe\nTotal: R$ 100\,00\nConta: Conta C6 (CPF)
-SUMMARY:Pix mãe
-UID:223fca70-a6ea-42db-b669-694a4205a700@223f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240909
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 12\,57\nConta: Conta Itaú
-SUMMARY:Minimart
-UID:841b515e-7631-4dd4-8c6a-4d08d5fb533a@841b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 750\,00\nConta: Conta C6 (CPF)
-SUMMARY:PIX
-UID:02b1e199-400b-439f-a33f-6ceb981f26aa@02b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 158\,33\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Colchão 07/12
-UID:5815038c-5b31-4dda-a5ff-c7c776059584@5815.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240819
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 13\,97\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:66e40c53-b3a9-41dc-9d73-d9b37bc88b99@66e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241008
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 11\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Apple Music
-UID:c65bd3a0-59c3-47c1-bd49-9a83321c9dfa@c65b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241014
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 78\,90\nCartão de Crédito: Cartão BrasilCard
-SUMMARY:HomePod Mini 02/10
-UID:dd1c968e-faa4-4fad-89cb-76cf000b4db5@dd1c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241220
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 155\,32\nConta: Conta C6 (CNPJ)
-SUMMARY:Pro Labore
-UID:2afe41a8-5f7a-4a4f-8112-beaeb56e82cf@2afe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 13\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Youtube Premium
-UID:0ecd7871-3c5b-4887-bf12-166d8f3db5f5@0ecd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:Status: A pagar\nCategoria: Delivery\nTotal: R$ 59\,90\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Pizza
-UID:3708ba32-9522-472b-b12c-b7d1be436344@3708.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240810
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 50\,00\nConta: Conta C6 (CPF)
-SUMMARY:Cabelo Sami
-UID:915142aa-e1cb-4c26-876c-7158e59da58a@9151.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240921
-DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 38\,94\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 02/03
-UID:b84db858-5e54-467c-b45e-9435e9947a9e@b84d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240822
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 75\,22\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 01/03
-UID:a3f4d81b-8379-4fc8-a740-afd42c905368@a3f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 15\,49\nConta: Conta Itaú
-SUMMARY:Minimart
-UID:0dd0009d-cb4a-42c8-8d97-6055cfcf68d1@0dd0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241020
-DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 238\,19\nConta: Conta C6 (CNPJ)
-SUMMARY:Convênio Médico GNDI
-UID:ac765a83-9772-4686-b35c-119d6036bb07@ac76.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241009
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 13\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Youtube Premium
-UID:546cf115-8a30-47c9-8e97-4fd87d0cc344@546c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240911
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 10\,00\nConta: Conta Itaú
-SUMMARY:Café Ginga
-UID:676ef5ca-6ffc-4e29-9164-a1ebe2a7d60d@676e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241120
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 340\,00\nConta: Conta C6 (CNPJ)
-SUMMARY:Parcelamento Imposto
-UID:7f54df7a-fd7e-449d-b1a0-9cc5a729d38e@7f54.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240808
-DESCRIPTION:Status: Pago\nCategoria: Assinaturas\nTotal: R$ 11\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Apple Music
-UID:69c033b5-bf1c-4706-820f-663911ac486e@69c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240821
-DESCRIPTION:Status: Pago\nCategoria: Pets\nTotal: R$ 60\,17\nConta: Conta C6 (CPF)
-SUMMARY:Coleira ZeeCat
-UID:8115bd09-10f5-4863-9ed5-e2be4d633235@8115.org
+UID:c81d6201-06cf-4985-8c48-303fa8f48362@c81d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240916
 DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,58\nConta: Conta Itaú
 SUMMARY:Mini Extra
-UID:27730e9c-7706-4a5e-bfd7-e719b157e837@2773.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240908
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 11\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Apple Music
-UID:74f0f48a-309a-47a8-9ff6-42b93ea2fa0d@74f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:Status: Cheque Especial\nCategoria: Alimentação\nTotal: R$ 29\,26
-SUMMARY:Oxxo
-UID:84023f56-9d1f-4310-9ba3-89ee8a971f7c@8402.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240906
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 300\,00\nCartão de Crédito: Cartão Neon
-SUMMARY:Meta Quest 3 02/10
-UID:581c7896-df26-45f0-b87b-ceec309fd6e5@581c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240811
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 35\,45\nConta: Conta C6 (CPF)
-SUMMARY:Mercadinho
-UID:219bd654-9666-452b-b0f9-1e5a96aa3402@219b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240812
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 25\,00\nConta: Conta C6 (CPF)
-SUMMARY:Thiago - Sacos de Lixo
-UID:69871b99-2291-493a-8c20-da26e569b791@6987.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240913
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 2\,59\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Iof
-UID:b3626e81-ccc8-4afa-b5bc-5413958ec191@b362.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240822
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 2\,98\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:5c514554-aabd-49ac-b942-6384f49d5c39@5c51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240831
-DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ -50\,00\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Adiantamento
-UID:5f084b01-78b7-4be6-97d9-63abd5b11d2d@5f08.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240820
-DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 45\,88\nConta: Conta C6 (CPF)
-SUMMARY:Pizza
-UID:1b24db3a-e11d-4d43-afdb-335635fa59c9@1b24.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 120\,00\nConta: Conta Itaú
-SUMMARY:Capitalização 02/60
-UID:483026ba-3676-47cf-b195-a6a27a6189a2@4830.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240810
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 17\,10\nConta: Conta C6 (CPF)
-SUMMARY:Padaria
-UID:b1eafdea-1077-4ac6-a28a-2f103f00bacb@b1ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240921
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 69\,80\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:iFood
-UID:84bf1861-543e-4bff-81c2-1181dd6998e3@84bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240702
-DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 581\,40\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Macbook 01/10
-UID:f93def1b-ed3e-429a-ae68-ca8f03552f2c@f93d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240824
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 82\,59\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 01/02
-UID:07649a44-e585-495b-af29-6b79ee7e51e7@0764.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241117
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 46\,90\nCartão de Crédito: Cartão BrasilCard
-SUMMARY:Roteador 03/10
-UID:6b816e30-a1f5-46b5-bcad-52c30ebdb6bb@6b81.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241027
-DESCRIPTION:Status: A pagar\nCategoria: Farmácia\nTotal: R$ 55\,00\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre (Baristar) 03/03
-UID:37881fa8-368b-48b9-a2be-1c3d169c67a7@3788.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240907
-DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 154\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Genshin Impact
-UID:1f2f51ff-ceb4-47ad-8c74-3178eb4f23ce@1f2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240821
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 38\,94\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 01/03
-UID:461b5346-fdaa-475b-b705-fd6436f6d8f6@461b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 106\,09\nConta: Conta Itaú
-SUMMARY:Enel
-UID:bf314867-c6d6-4685-889d-f473beac4a6f@bf31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241008
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 170\,99\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Airpods Pro 04/10
-UID:c7929603-8eee-43b6-a32e-7b7fe5bac9a9@c792.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241105
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 455\,13\nConta: Conta C6 (CPF)
-SUMMARY:Condomínio Lello
-UID:63527c82-ef58-43f6-ace8-e7cb1eb60c78@6352.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241009
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 121\,82\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Compra Zelo 05/06
-UID:72aff23d-4ec2-4570-9f11-95938596ff5e@72af.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240915
-DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 102\,43\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Relax 02/02
-UID:35b95f4f-fd9a-4e0f-b0bf-252536964067@35b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240815
-DESCRIPTION:Status: Pago\nCategoria: Pets\nTotal: R$ 119\,69\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Ração Gatos 01/03
-UID:cd381776-3cc4-43eb-85e9-b639c68d8051@cd38.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240911
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 49\,85\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:BoboVr 01/06
-UID:a73f805c-1c32-4f56-a3d5-c23d1e95bfa0@a73f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 455\,13\nConta: Conta C6 (CPF)
-SUMMARY:Condomínio Lello
-UID:76ef194a-4ecb-46ad-9f7f-b5de7e9d9517@76ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241114
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 103\,30\nCartão de Crédito: Cartão BrasilCard
-SUMMARY:AliExpress 03/12
-UID:8f587a45-0bcd-4382-afb6-495d70360d36@8f58.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240806
-DESCRIPTION:Status: Pago\nCategoria: Vaping\nTotal: R$ 194\,59\nConta: Conta C6 (CPF)
-SUMMARY:Nicsalt
-UID:b30c17c0-5491-46aa-929c-a59b8b5318ff@b30c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240918
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 99\,90\nCartão de Crédito: Cartão Nubank
-SUMMARY:Chat GPT
-UID:d7411379-71c8-45d4-b996-53fb13d192c1@d741.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241020
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 810\,00\nConta: Conta C6 (CNPJ)
-SUMMARY:Guia de Imposto
-UID:379fd1b4-c6fe-49e6-a12a-ce198f5a4a81@379f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241014
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 103\,30\nCartão de Crédito: Cartão BrasilCard
-SUMMARY:AliExpress 02/12
-UID:87ba3fe0-0696-4e25-b96a-532ce50f49c3@87ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240821
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,54\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:9366c1a4-6d05-4221-b95d-57190c689c49@9366.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240909
-DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ 52\,50\nConta: Conta Itaú
-SUMMARY:Weed
-UID:c0bef176-2512-4628-bd62-37bc3025573c@c0be.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240726
-DESCRIPTION:Status: Pago\nCategoria: Vaping\nTotal: R$ 160\,37\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Nicsalt
-UID:0003221d-09d9-4bf9-893a-75281f49d9be@0003.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240821
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 7\,88\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:431250e6-eeb1-44aa-ae27-b32038dae4e3@4312.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240817
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 14\,76\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:6d10d51a-5521-48a4-b42f-a8e05a479714@6d10.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240909
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,59\nConta: Conta Itaú
-SUMMARY:Mini Extra
-UID:c75a4bc0-6af4-4bfd-a8b8-0fa19b82350f@c75a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 273\,84\nConta: Conta C6 (CPF)
-SUMMARY:Claro Residencial
-UID:e4bf3eaa-f0b9-424b-8559-b041a3dd670f@e4bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241106
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 300\,00\nCartão de Crédito: Cartão Neon
-SUMMARY:Meta Quest 3 04/10
-UID:8ea92995-0c61-41f0-bbec-f7ba41d4f19e@8ea9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240927
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 219\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Nintendo Switch 08/10
-UID:50adc883-6e64-44cd-a4ed-d762cc875673@50ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240922
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 92\,71\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Chama
-UID:35d7dbe5-3f43-4b2c-ad13-f6726fa97368@35d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240910
-DESCRIPTION:Status: Pago\nCategoria: Tarifas Bancárias\nTotal: R$ 120\,00\nConta: Conta Itaú
-SUMMARY:Capitalização 01/60
-UID:d5c87d67-4433-4a94-9766-24895699ba4f@d5c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241203
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 581\,40\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Macbook 06/10
-UID:9908691a-5749-4fa8-9578-50877c8f7da5@9908.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240829
-DESCRIPTION:Status: Pago\nCategoria: Transporte\nTotal: R$ 37\,00\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:99 App
-UID:67eeb48b-f91a-4d6f-862a-d734b913c45e@67ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240705
-DESCRIPTION:Status: Pago\nCategoria: Vaping\nTotal: R$ 249\,35\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Nicsalt
-UID:27320e7e-3f7b-49ba-b06b-bdb52e152488@2732.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240911
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 50\,00\nCartão de Crédito: Cartão Neon
-SUMMARY:BoboVr 01/06
-UID:2f875776-becf-4ac7-bafe-3ed381c7cb21@2f87.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241103
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 581\,40\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Macbook 05/10
-UID:9e9f4e11-c7ad-407a-8e59-f45d7760f976@9e9f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.008\,31\nConta: Conta Itaú
-SUMMARY:Condomínio
-UID:07a6589d-113f-4ecb-bfef-f6e5c10f31b0@07a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 20\,00\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre
-UID:8a925df0-4b8d-4b51-9d15-e0a6299d0d0f@8a92.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 2\,30\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Extra
-UID:5823e4ba-e65a-497f-9d81-3973b666bc63@5823.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 396\,00\nConta: Conta Itaú
-SUMMARY:Cartão PicPay
-UID:43e703dd-8bb0-4828-966b-6a8405f18af8@43e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 25\,67\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mini Extra
-UID:526bebc5-bae0-49ef-bace-d51c938731f8@526b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240802
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 202\,94\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre
-UID:9f8bd25f-51c7-4629-aa8c-bb9ef8283e76@9f8b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240818
-DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 99\,50\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 01/02
-UID:faaf17ea-bcf3-4cba-9758-32c533e38920@faaf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240814
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 20\,66\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:f5212143-e7a3-4486-a513-9bb77a7adb93@f521.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240821
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 110\,77\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 01/04
-UID:a8eba3a3-0d62-440b-b1b1-c3ab67de9f4c@a8eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240808
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,00\nConta: Conta C6 (CPF)
-SUMMARY:Padaria
-UID:913e2be8-f1f0-4999-92d7-a1b38d019e60@913e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240907
-DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 76\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Genshin Impact
-UID:1a93dac4-78e7-46a5-8692-70e45c69f120@1a93.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240831
-DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 158\,37\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:AliExpress
-UID:4c6130d5-3794-4bbc-87af-e709f91462df@4c61.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250105
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 562\,23\nConta: Conta C6 (CPF)
-SUMMARY:Caixa Habitação
-UID:67ed3ee2-a4ce-4b27-b74d-8741077d73e8@67ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241215
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 49\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:iCloud
-UID:b656217f-74a5-4de6-9e15-3b78055d55be@b656.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240830
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 22\,98\nConta: Conta C6 (CPF)
-SUMMARY:Oxxo
-UID:e8d91b40-096f-44d1-9e65-cc7bd67dd7b1@e8d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240830
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,58\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:1d245d6d-b7bf-4013-98fd-0601576b1158@1d24.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 393\,40\nConta: Conta Itaú
-SUMMARY:Cartão Nubank CNPJ
-UID:6ece9e93-bbcc-47c1-b6b1-679c6174efc3@6ece.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240915
-DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 119\,69\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Ração Gatos 02/03
-UID:f291d292-1795-4df2-869e-6c91ff5d93a9@f291.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240821
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 10\,58\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:4e9702bb-3221-4fa2-a875-2ec32abd34b0@4e97.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241110
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 300\,00\nConta: Conta C6 (CNPJ)
-SUMMARY:Contador
-UID:c0928653-2a6c-46be-beb6-b43fa1b22c1e@c092.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240924
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 28\,09\nConta: Conta Itaú
-SUMMARY:Mini Extra
-UID:d3737fde-be34-427d-bb61-5a001a099e68@d373.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240702
-DESCRIPTION:Status: Pago\nCategoria: Pets\nTotal: R$ 83\,08\nCartão de Crédito: Cartão Nubank (CNPJ)
-SUMMARY:Petz 02/03
-UID:8175fc60-d549-4bcf-b883-9570b4d06b42@8175.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241208
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 11\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Apple Music
-UID:40d2dd3e-2ef2-49ca-ad43-dc63ebe975c2@40d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240909
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 158\,33\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Colchão 04/12
-UID:861b7ddf-2987-4e2c-a7fb-fc5d68caf08d@861b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:Status: Cheque Especial\nCategoria: Alimentação\nTotal: R$ 38\,00
-SUMMARY:Cereja
-UID:4254a335-cbb7-4ce9-a230-3ddc85fee9e7@4254.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240910
-DESCRIPTION:Status: Pago\nCategoria: Contas mãe\nTotal: R$ 332\,84\nConta: Conta Itaú
-SUMMARY:Claro Residencial
-UID:dbfbc1e7-1be7-4286-93e4-180c76ae858f@dbfb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240828
-DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 69\,80\nConta: Conta C6 (CPF)
-SUMMARY:iFood
-UID:7b2f4beb-9baf-407d-bb18-d869aa013eb4@7b2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240924
-DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 80\,01\nConta: Conta Itaú
-SUMMARY:Mercado Livre
-UID:cbf1f398-3a00-4132-8fe1-bca7a1442e3a@cbf1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240829
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 26\,37\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:3294f1f8-620b-4800-be88-14b48b817b08@3294.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241109
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 121\,82\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Compra Zelo 06/06
-UID:7c076972-b4f0-4016-a883-c95777e945fa@7c07.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240922
-DESCRIPTION:Status: A pagar\nCategoria: Farmácia\nTotal: R$ 38\,84\nCartão de Crédito: Cartão Nubank
-SUMMARY:Drogasil
-UID:e5e24733-abd4-4a4b-a80b-b11c955f13d6@e5e2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241203
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 64\,87\nConta: Conta C6 (CPF)
-SUMMARY:Recovery 04/06
-UID:725494f3-82d8-4b34-b3dc-ffa42a743e6c@7254.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240830
-DESCRIPTION:Status: Pago\nCategoria: Assinaturas\nTotal: R$ 17\,99\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Meli+
-UID:996f616a-9b4c-4f03-b79b-62142be4480a@996f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240901
-DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 118\,80\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Pizza Prime
-UID:ffa7c3a1-ebcd-4a44-80e6-4eac412cfe99@ffa7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240915
-DESCRIPTION:Status: A pagar\nCategoria: Delivery\nTotal: R$ 37\,99\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mestre Pizza
-UID:0a33304c-f90b-4896-b019-0c7119b3a468@0a33.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240813
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,38\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:a3a22007-a516-405d-97dc-303c83b7f3cd@a3a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240812
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 4\,95\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:60ff49a6-4b62-485b-a16d-bf962ca8f082@60ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240907
-DESCRIPTION:Status: Pago\nCategoria: Contas mãe\nTotal: R$ 1.976\,28\nConta: Conta Itaú
-SUMMARY:Aluguel Quinto Andar
-UID:2addf191-66d4-497f-8d31-6000aadecf9c@2add.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241214
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 103\,30\nCartão de Crédito: Cartão BrasilCard
-SUMMARY:AliExpress 04/12
-UID:24562ac3-721a-4dad-8c85-34d04a81e7ab@2456.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240922
-DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 75\,22\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 02/03
-UID:65c387cd-5c60-439b-a6a0-08b9eb1b2c64@65c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241211
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 50\,00\nCartão de Crédito: Cartão Neon
-SUMMARY:BoboVr 04/06
-UID:7d76dd12-bca6-4c0e-ab1b-9cb9645aa23f@7d76.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240906
-DESCRIPTION:Status: Pago\nCategoria: Vaping\nTotal: R$ 185\,78\nConta: Conta Itaú
-SUMMARY:Nicsalt
-UID:15d852b2-db31-4428-8c00-cec1bc101077@15d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240702
-DESCRIPTION:Status: Pago\nCategoria: Pets\nTotal: R$ 107\,58\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Petz
-UID:d299d712-8932-4149-855d-d0f5927c74d8@d299.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240915
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 20\,39\nConta: Conta Itaú
-SUMMARY:Mini Extra
-UID:ca8620ad-4c74-44c3-8838-bf63e6c05fca@ca86.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240827
-DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ 25\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Genshin
-UID:a1768a3f-3b05-48fb-ace5-7f6154b2633f@a176.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240819
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 7\,00\nConta: Conta C6 (CPF)
-SUMMARY:AkiTem
-UID:42b37dec-7f9d-4424-be0e-4eb039318e68@42b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240923
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 13\,89\nConta: Conta Itaú
-SUMMARY:Minimart
-UID:e9b7d8a2-1cd1-4a6a-99f8-75e106670356@e9b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240825
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 103\,00\nConta: Conta C6 (CPF)
-SUMMARY:Chama
-UID:5c5167c0-7cdc-4c74-a97f-e06157aa44a3@5c51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250110
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 120\,00\nConta: Conta Itaú
-SUMMARY:Capitalização 05/60
-UID:02b72da1-af29-48fa-a762-d8e5f233b529@02b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241220
-DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 238\,19\nConta: Conta C6 (CNPJ)
-SUMMARY:Convênio Médico GNDI
-UID:4c2347c8-bc44-4feb-9892-0adb061a07c0@4c23.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240909
-DESCRIPTION:Status: A pagar\nCategoria: Delivery\nTotal: R$ 149\,80\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Pizza Prime
-UID:eeeb3a84-e6f1-411d-b98c-5aae35ab8a98@eeeb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240827
-DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 55\,01\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre (Baristar) 01/03
-UID:ad8a24d4-b30b-4486-a351-3990326180b2@ad8a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 97\,48\nConta: Conta C6 (CPF)
-SUMMARY:Farmácia
-UID:4fc9a40d-a2fd-4188-8534-a8bb36687e77@4fc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:Status: Cheque Especial\nCategoria: Contas mãe\nTotal: R$ 100\,00
-SUMMARY:Pix mãe
-UID:1aff2643-482d-43d5-b033-234a02c9aa97@1aff.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240830
-DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 69\,80\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:iFood
-UID:1d04d696-d187-4711-b615-6be858e59be8@1d04.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240817
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,00\nConta: Conta C6 (CPF)
-SUMMARY:Pão de Mosca
-UID:37d86ee8-8a02-4cf8-994d-f40a1438b140@37d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241007
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 97\,48\nConta: Conta Itaú
-SUMMARY:Farmácia
-UID:f770fba0-c540-4f4f-935d-8d757ab52ab7@f770.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 750\,00\nConta: Conta C6 (CPF)
-SUMMARY:PIX
-UID:17d1cbbb-ca9c-4379-a886-e27bc8fb9f35@17d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241220
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 340\,00\nConta: Conta C6 (CNPJ)
-SUMMARY:Parcelamento Imposto
-UID:fcc1a2d0-77f6-4acd-a307-b593e3126439@fcc1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240922
-DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 76\,90\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Genshin
-UID:a97cfc75-8d71-43fb-8f99-8a582af491d5@a97c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241011
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 49\,83\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:BoboVr 02/06
-UID:f23e69a5-8868-4692-929b-b12a4e938baa@f23e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240913
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 6\,50\nConta: Conta Itaú
-SUMMARY:Mini Extra
-UID:83841dee-3cd2-4520-852a-b7a0e438db1b@8384.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241101
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 123\,52\nConta: Conta C6 (CPF)
-SUMMARY:Recovery 03/06
-UID:1b345536-e8ee-40d9-a481-ba284ee87768@1b34.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240805
-DESCRIPTION:Status: Pago\nCategoria: Tarifas Bancárias\nTotal: R$ 24\,23\nConta: Conta Itaú
-SUMMARY:Juros + IOF Itaú
-UID:024c2296-b640-43f3-9145-37765b9974f9@024c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240824
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 5\,49\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:10ba00b3-93be-4e99-9976-6bcf98155dcd@10ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 75\,54\nConta: Conta C6 (CPF)
-SUMMARY:Tim Celular
-UID:b21a7fdf-987b-4ee2-add0-eaa7fd4f77c7@b21a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241121
-DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 110\,77\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 04/04
-UID:f383c20d-37bc-4445-80e0-f9887f62fe21@f383.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241011
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 50\,00\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:BoboVr 02/06
-UID:3285022d-50af-4b03-83b2-a057fc36689e@3285.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240810
-DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 33\,21\nConta: Conta C6 (CPF)
-SUMMARY:Mercado Livre
-UID:6d6f2a2c-8cf3-405c-990c-a8bcc685932f@6d6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240821
-DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 47\,92\nConta: Conta C6 (CPF)
-SUMMARY:Mercado Livre
-UID:f12b5439-8187-4d8e-a157-60ca14c5d14a@f12b.org
+UID:dbb0b756-2bb8-48cd-a47a-daa258952ddf@dbb0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241120
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 1.318\,80\nConta: Conta C6 (CNPJ)
-SUMMARY:Guia de Imposto
-UID:6feeb003-4a00-4fb5-a8ee-080042b4b427@6fee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240821
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 14\,19\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:e46e1518-0f98-4417-97f4-e2631437abb8@e46e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240905
-DESCRIPTION:Status: Pago\nCategoria: Apartamento\nTotal: R$ 120\,00\nConta: Conta Itaú
-SUMMARY:Internet Vivo
-UID:a9b49574-94c6-459d-afe1-a00aa8cdc8a5@a9b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DESCRIPTION:Status: A pagar\nCategoria: Empréstimos\nTotal: R$ 933\,19\nConta: Conta Nubank
-SUMMARY:Empréstimo NuBank CPF 02/36
-UID:0c617adc-b91d-4c2a-ac54-06add6ee50fb@0c61.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.976\,28\nConta: Conta C6 (CPF)
-SUMMARY:Aluguel Quinto Andar
-UID:d179f735-57c3-474a-a129-8179bc49d69d@d179.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241230
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 9\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Meli+
-UID:8f5d0458-4d95-48ec-a39a-4d134c656195@8f5d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241003
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 123\,52\nConta: Conta Itaú
-SUMMARY:Recovery 02/06
-UID:d8d084d7-ce72-4d75-9baa-b9c046dad24e@d8d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240907
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 177\,82\nConta: Conta Itaú
-SUMMARY:Chama
-UID:daecd8c5-777e-4c7f-8345-5ec0167206ba@daec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241006
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 300\,00\nCartão de Crédito: Cartão Neon
-SUMMARY:Meta Quest 3 03/10
-UID:55e91991-ef95-4cc4-bb1d-cb736284d22e@55e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240811
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 2\,98\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:b1ef4d49-982f-4b39-beb1-5dd8755d2ab8@b1ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240807
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,94\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:73498df9-3b59-49b1-9199-63ace0f4e4fa@7349.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240820
-DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 188\,39\nConta: Conta C6 (CPF)
-SUMMARY:Shopee
-UID:c0307aeb-e1c8-4c7b-934e-bd65cf6640ee@c030.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241022
-DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 35\,34\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 03/03
-UID:4d56ab81-6760-42c4-97ae-4527275138a8@4d56.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240916
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 87\,47\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Amazon 03/03
-UID:b5e94c52-7526-4842-97f4-72fc8eaf4ff2@b5e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240819
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,00\nConta: Conta C6 (CPF)
-SUMMARY:Padaria
-UID:d06f6cdf-bfc4-4bee-9edf-4de528c47c1e@d06f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240817
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 31\,22\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:824985e6-a3db-4f16-8614-f3755c9245cc@8249.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240811
-DESCRIPTION:Status: Pago\nCategoria: Transporte\nTotal: R$ 14\,70\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:99 App
-UID:54a803d2-1828-4009-ae26-cacc2bfc32a1@54a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240909
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 13\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Youtube Premium
-UID:64ceabe9-c097-493e-90b7-0948f968a296@64ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241021
-DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 110\,77\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 03/04
-UID:360c3392-86dd-4fb3-bc6a-47f53af723eb@360c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241106
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 122\,90\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Meta Quest 3 03/10
-UID:f6fbdd66-493d-4b8a-9bf4-f055e50435a4@f6fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240831
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 25\,67\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mini Extra
-UID:8fbf40e2-6312-4285-b93a-585c1ccd5824@8fbf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240907
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 220\,00\nCartão Pluxee: Pluxee VA
-SUMMARY:Chama
-UID:7029041e-7f9f-4406-95f7-45304bca8ffa@7029.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240809
-DESCRIPTION:Status: Pago\nCategoria: Seguros\nTotal: R$ 88\,70\nCartão de Crédito: Cartão Nubank (CPF)
-SUMMARY:Seguro Celular
-UID:748848ab-df2c-42f7-8c70-7ccdeeabf689@7488.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:Status: Cheque Especial\nCategoria: Tarifas Bancárias\nTotal: R$ 123\,52
-SUMMARY:Serasa 01/06
-UID:c550d00b-7b23-42c2-bf75-190a13e86793@c550.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240820
-DESCRIPTION:Status: Pago\nCategoria: Seguros\nTotal: R$ 238\,19\nConta: Conta C6 (CNPJ)
-SUMMARY:Convênio Médico GNDI
-UID:d291ce93-5f0b-4cd7-93c8-f2c423620b6f@d291.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240819
-DESCRIPTION:Status: Pago\nCategoria: Vaping\nTotal: R$ 224\,60\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:White Cloud
-UID:acf54601-f43a-4ab2-a15a-50a6875841dc@acf5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240820
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 4\,95\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:f2a2dc50-8321-41dc-8396-2ea09078d955@f2a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241020
 DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 155\,32\nConta: Conta C6 (CNPJ)
 SUMMARY:Pro Labore
-UID:42b6f1d3-f802-4f67-9eb3-0a66866eb584@42b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241127
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 219\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Nintendo Switch 10/10
-UID:805966b5-6440-4ac5-81c8-25cc496d5bc0@8059.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240918
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 14\,90\nCartão de Crédito: Cartão Nubank
-SUMMARY:Parcel
-UID:4f42b166-f547-4b47-88fe-8742d86fb98b@4f42.org
+UID:7f5bfa12-714d-4c40-9416-c2b4421cbe5e@7f5b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240803
 DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 67\,90\nCartão de Crédito: Cartão Itaú Click
 SUMMARY:iFood
-UID:825b63a4-eae7-4a72-8920-dab4babbf3d4@825b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 273\,84\nConta: Conta C6 (CPF)
-SUMMARY:Claro Residencial
-UID:b41b8e03-951d-4321-8127-adb003235775@b41b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240922
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 169\,23\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Outback
-UID:e7de5268-e11b-4246-97a2-1876a807d642@e7de.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241229
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 98\,00\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Anuidade
-UID:4ca54b6a-69f6-4a12-9a3d-cc36852d77a1@4ca5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241027
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 219\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Nintendo Switch 09/10
-UID:c96e1587-830d-4524-bcbf-17d32198f286@c96e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240915
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 8\,57\nConta: Conta Itaú
-SUMMARY:Minimart
-UID:9b7ebf51-e09e-4ebe-8b08-e1e54f2ca277@9b7e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.976\,28\nConta: Conta C6 (CPF)
-SUMMARY:Aluguel Quinto Andar
-UID:d5a1b41c-bf91-472b-a6a1-30a8976663a6@d5a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240821
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 54\,21\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre
-UID:61532921-c9f9-4b1a-8d45-38e9f51b8074@6153.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240905
-DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 24\,99\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Assinatura PetLove 03/03
-UID:becd55e0-e70a-430c-999f-761eae023636@becd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250105
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 279\,00\nConta: Conta C6 (CPF)
-SUMMARY:Enel Apartamento
-UID:8678b2a7-44f8-485c-a7cf-dc58abebe656@8678.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240929
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 98\,00\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Anuidade
-UID:2ad9af6b-a157-4bc9-9190-383d3364af2b@2ad9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 77\,66\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Amazon 03/03
-UID:5e537c90-d633-444e-a7af-edbd1d27da4a@5e53.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240822
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 35\,35\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 01/03
-UID:a87db399-9069-4242-8087-3fc8062dbede@a87d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240726
-DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 119\,92\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre
-UID:d333f6dd-9876-4e54-8b95-d322bf06e890@d333.org
+UID:55880d10-7807-426c-bf3c-1f9550c8a020@5588.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240906
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 122\,90\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Meta Quest 3 01/10
-UID:f30459c6-e349-4c6b-b059-31384f82a960@f304.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241020
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 55\,00\nConta: Conta Itaú
-SUMMARY:Imposto MEI
-UID:b6e94e7c-9fb1-43cf-9cad-789641ed88a4@b6e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240810
-DESCRIPTION:Status: Pago\nCategoria: Apartamento\nTotal: R$ 562\,23\nConta: Conta C6 (CPF)
-SUMMARY:Caixa Habitação
-UID:80e3075b-232b-4c93-939d-d4b58ca9497f@80e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:Status: Cheque Especial\nCategoria: Alimentação\nTotal: R$ 72\,44
-SUMMARY:Chama
-UID:75a8dee4-e054-46dc-9305-31102a41261e@75a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241109
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 13\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Youtube Premium
-UID:e6777140-3614-4255-ae84-32a890e0d3b8@e677.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240908
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 170\,99\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Airpods Pro 03/10
-UID:2e88b766-083d-43e9-a903-f0afae403a9e@2e88.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241015
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 49\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:iCloud
-UID:525ee477-1c51-453f-ab97-877fc9b9a1af@525e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241021
-DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 38\,94\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 03/03
-UID:bd225601-632b-48e1-8906-bc33f5f8601d@bd22.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240918
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 10\,24\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Minimart
-UID:039fc632-2311-4beb-8459-9ed791a22a90@039f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241118
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 99\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Chat GPT
-UID:b0793a4a-c69e-4423-b7cc-37b3b1de7239@b079.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240810
-DESCRIPTION:Status: Pago\nCategoria: Apartamento\nTotal: R$ 279\,00\nConta: Conta C6 (CPF)
-SUMMARY:Enel Apartamento
-UID:d6faa984-9d25-43b6-9fe0-274aa1f0237b@d6fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240910
-DESCRIPTION:Status: Pago\nCategoria: Tarifas Bancárias\nTotal: R$ 9\,07\nConta: Conta Itaú
-SUMMARY:Juros Cheque Especial
-UID:8c925964-a7e0-4218-92ba-5036c34b10e2@8c92.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240818
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,90\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:67510c32-4e35-4124-96c5-fbb39f69b571@6751.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241214
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 78\,90\nCartão de Crédito: Cartão BrasilCard
-SUMMARY:HomePod Mini 04/10
-UID:6b9d4d60-05d6-43ad-bd9a-bd3b2ebfe9e8@6b9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240808
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 8\,48\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:8f5eb252-da93-4ea5-ab47-124e024c25fc@8f5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240921
-DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 110\,77\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 02/04
-UID:206da1b5-bcab-4dc9-9659-9f2bd2f18d1f@206d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240815
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 102\,43\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Relax 01/02
-UID:1ef91c25-0c15-49fc-92ee-64b7cb3b18cf@1ef9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240814
-DESCRIPTION:Status: Pago\nCategoria: Contas mãe\nTotal: R$ 40\,00\nConta: Conta C6 (CPF)
-SUMMARY:Pix extra mãe
-UID:03d2c6ed-da1d-4279-9e0f-76d1bc4f3789@03d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240805
-DESCRIPTION:Status: Pago\nCategoria: Pets\nTotal: R$ 24\,99\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Assinatura PetLove 02/03
-UID:d476ad30-70bc-4fe0-93e5-12eed03552c9@d476.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241210
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 600\,00\nConta: Conta C6 (CNPJ)
-SUMMARY:Contador
-UID:27c75d47-d60d-4e12-a022-9c54c3229a85@27c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240816
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 14\,07\nConta: Conta C6 (CPF)
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 21\,89\nConta: Conta Itaú
 SUMMARY:Mini Extra
-UID:7695af05-b040-4e99-a1a1-f85cc57f3dcc@7695.org
+UID:c319a7fd-44ec-4952-a074-4dc4b63adc08@c319.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241210
-DESCRIPTION:Status: A pagar\nCategoria: Educação\nTotal: R$ 284\,90\nConta: Conta C6 (CPF)
-SUMMARY:Anhembi Morumbi
-UID:f725e522-45d7-4630-91ea-067f8dc63647@f725.org
+DTSTART;VALUE=DATE:20241101
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 123\,52\nConta: Conta C6 (CPF)
+SUMMARY:Recovery 03/06
+UID:99ea72a0-8f2c-4c53-93ff-2b936a69eee2@99ea.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240911
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 16\,33\nConta: Conta Itaú
+DTSTART;VALUE=DATE:20240824
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 82\,59\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 01/02
+UID:b3a8b446-53a6-4b50-88f5-5310e9e686cd@b3a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240821
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,54\nConta: Conta C6 (CPF)
 SUMMARY:Minimart
-UID:e912dc8e-7f07-4697-8c48-be65ec75f358@e912.org
+UID:44d9ea0d-1d81-4ede-b459-b3cec163070f@44d9.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240823
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 21\,88\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:6518b552-46df-492c-b163-7802385de7c7@6518.org
+DTSTART;VALUE=DATE:20240821
+DESCRIPTION:Status: Pago\nCategoria: Pets\nTotal: R$ 60\,17\nConta: Conta C6 (CPF)
+SUMMARY:Coleira ZeeCat
+UID:c1b4ba59-24f1-4b38-b672-bc048e0e3bc3@c1b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 750\,00\nConta: Conta Itaú
+SUMMARY:PIX
+UID:0c04b91a-ca7b-4e22-9664-a93994018d34@0c04.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250120
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 1.410\,00\nConta: Conta C6 (CNPJ)
-SUMMARY:Guia de Imposto
-UID:06d34c3c-d18a-430c-880a-2c65478d985b@06d3.org
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 340\,00\nConta: Conta C6 (CNPJ)
+SUMMARY:Parcelamento Imposto
+UID:7a7bd2ba-9ce7-47a7-9777-bc23b8a5660b@7a7b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240914
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 29\,49\nConta: Conta Itaú
-SUMMARY:Mini Extra
-UID:7e04b1f5-176c-4901-b62b-ef33709e9ff2@7e04.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240907
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 32\,97\nConta: Conta Itaú
-SUMMARY:Mini Extra
-UID:52418977-e798-4d53-9852-2406c912d32a@5241.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240912
-DESCRIPTION:Status: Pago\nCategoria: Empréstimos\nTotal: R$ 933\,19\nConta: Conta Nubank
-SUMMARY:Empréstimo NuBank CPF 03/36
-UID:312a526b-58c8-4c10-966b-f3a61b79528e@312a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241115
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 49\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:iCloud
-UID:9eb2075c-505b-4fa2-a6a4-eaca294a8438@9eb2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250105
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 120\,00\nConta: Conta C6 (CPF)
-SUMMARY:Internet Vivo
-UID:d90e6a94-874d-464a-adef-0eef58532810@d90e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240808
-DESCRIPTION:Status: Pago\nCategoria: Contas mãe\nTotal: R$ 1.439\,13\nConta: Conta C6 (CPF)
-SUMMARY:Daycoval
-UID:060ba79c-769e-4564-b53d-3f77005b92e3@060b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250110
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 300\,00\nConta: Conta C6 (CNPJ)
-SUMMARY:Contador
-UID:9e54391a-6655-40ed-9d00-14f43c3d2938@9e54.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241014
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 78\,90\nCartão de Crédito: Cartão BrasilCard
-SUMMARY:HomePod Mini 01/10
-UID:2a1f09f0-32cc-4140-b12c-e59296488383@2a1f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241022
-DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 75\,21\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 03/03
-UID:93c62566-f8c3-4027-a2c2-9dc748b70caf@93c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240806
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 327\,20\nCartão Pluxee: Pluxee VR
-SUMMARY:Frutifica
-UID:833cf130-1d73-4f14-88b2-40c8bba63875@833c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241029
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 98\,00\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Anuidade
-UID:204cc4c2-4a83-43f5-8db9-c3cd589d8106@204c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 273\,84\nConta: Conta C6 (CPF)
-SUMMARY:Claro Residencial
-UID:84c4bb4e-836e-4bf3-b879-32b7cbb1f909@84c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.976\,28\nConta: Conta C6 (CPF)
-SUMMARY:Aluguel Quinto Andar
-UID:fcf93a57-6308-4b45-859b-ca4444a83efe@fcf9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240914
-DESCRIPTION:Status: A pagar\nCategoria: Delivery\nTotal: R$ 59\,90\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Pizza Pan
-UID:8c4cc506-fdef-4088-9bca-c3c19d1763ca@8c4c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241108
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 170\,99\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Airpods Pro 05/10
-UID:006056d3-6836-4729-a7e0-b180831a4c85@0060.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 562\,23\nConta: Conta C6 (CPF)
-SUMMARY:Caixa Habitação
-UID:f5530fe9-8a2d-489b-87b9-be5c46621623@f553.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240809
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,00\nConta: Conta C6 (CPF)
-SUMMARY:Padaria
-UID:8104fd7e-865a-46fa-bc2f-81b92515c41d@8104.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241017
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 46\,90\nCartão de Crédito: Cartão BrasilCard
-SUMMARY:Roteador 01/10
-UID:4d7210c4-5734-4abd-b454-d4f3f88374b0@4d72.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240907
-DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 99\,35\nConta: Conta Itaú
-SUMMARY:Farmácia
-UID:0da5f0fb-d44e-4280-b46a-550fb720c9e3@0da5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241007
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 279\,00\nConta: Conta Itaú
-SUMMARY:Enel Apartamento
-UID:7b9ea852-2a31-400e-9f18-5db584adca1c@7b9e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241007
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 455\,13\nConta: Conta Itaú
-SUMMARY:Condomínio Lello
-UID:fca36d1a-24c0-43a9-8eb0-67a14e78d2e4@fca3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240826
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 14\,77\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:b96ca15f-3b27-4cf6-9010-3220df2b8429@b96c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240919
-DESCRIPTION:Status: A pagar\nCategoria: Delivery\nTotal: R$ 44\,99\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Esfihas
-UID:efb47484-ab24-42ee-b861-0c2223117893@efb4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240913
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,28\nConta: Conta Itaú
-SUMMARY:Minimart
-UID:960574ec-31ea-4b8b-85ee-f56147fecf2a@9605.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DESCRIPTION:Status: A pagar\nCategoria: Educação\nTotal: R$ 284\,90\nConta: Conta Itaú
-SUMMARY:Anhembi Morumbi
-UID:9e4905f6-d144-45a1-b206-0dbaebe61a7c@9e49.org
+DTSTART;VALUE=DATE:20240926
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 194\,96\nConta: Conta Itaú
+SUMMARY:Cápsulas
+UID:01e2f948-fb52-423c-98a3-63e1d71b6a1a@01e2.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241206
 DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 300\,00\nCartão de Crédito: Cartão Neon
 SUMMARY:Meta Quest 3 05/10
-UID:22cd77db-2581-433e-803a-a0db5a24204b@22cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 31\,04\nConta: Conta Itaú
-SUMMARY:Frutifica
-UID:552be5bb-a359-4e63-b097-e886b3f81ef0@552b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241105
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 562\,23\nConta: Conta C6 (CPF)
-SUMMARY:Caixa Habitação
-UID:480007e5-b7d0-43bf-9073-0d8d53e963e0@4800.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240707
-DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 105\,20\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Loccitane
-UID:743b3425-576e-4554-8282-7abe7ef9c47c@743b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240911
-DESCRIPTION:Status: A pagar\nCategoria: Transporte\nTotal: R$ 49\,92\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Uber
-UID:22353831-143d-4b63-a813-fb413b82d2f2@2235.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241015
-DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 127\,24\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Convênio PetLove
-UID:d6e0ceeb-98be-4af9-ac7d-7cac4f404e3d@d6e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241208
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 170\,99\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Airpods Pro 06/10
-UID:820cb664-cc8f-4116-b67a-470e80ed6dc1@820c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240807
-DESCRIPTION:Status: Pago\nCategoria: Vaping\nTotal: R$ 6\,50\nConta: Conta C6 (CPF)
-SUMMARY:Cigarro
-UID:7952895d-9f83-4920-bdb5-c46dfc90e738@7952.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241105
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 279\,00\nConta: Conta C6 (CPF)
-SUMMARY:Enel Apartamento
-UID:0a328161-6871-445b-892d-f8c1195862be@0a32.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241209
-DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 88\,70\nCartão de Crédito: Cartão Nubank
-SUMMARY:Seguro Celular
-UID:40fa135d-8d2c-4a56-9633-9e0d66e530bd@40fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240805
-DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 46\,43\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:iFood
-UID:c2c04db6-d0d0-4a70-bba7-4a8b6887c826@c2c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240921
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 23\,96\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Minimart
-UID:7b342eaa-1153-491e-b8b8-4616fc03d98a@7b34.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241009
-DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 88\,70\nCartão de Crédito: Cartão Nubank
-SUMMARY:Seguro Celular
-UID:423b5f67-4801-43d0-9adf-e3017b16dc65@423b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241114
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 78\,90\nCartão de Crédito: Cartão BrasilCard
-SUMMARY:HomePod Mini 03/10
-UID:aee1f89d-cf02-4c66-8185-bdd79ae1a546@aee1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240821
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 30\,57\nConta: Conta C6 (CPF)
-SUMMARY:Mercado Livre
-UID:cc2222a0-e608-430d-88ae-73ad594b1976@cc22.org
+UID:938c0074-0711-4dfd-a31f-50e6b21519f3@938c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241007
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.976\,28\nConta: Conta Itaú
-SUMMARY:Aluguel Quinto Andar
-UID:fbcd4414-23ab-4e5b-a4f7-80cc6b1f5efe@fbcd.org
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 279\,00\nConta: Conta Itaú
+SUMMARY:Enel Apartamento
+UID:2885830d-38bd-49fb-89d6-1a55f954ffce@2885.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240922
-DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 35\,35\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre 02/03
-UID:0ad6bcd0-e017-4431-ad80-bcfe3047e5c9@0ad6.org
+DTSTART;VALUE=DATE:20240909
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,59\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:89de54b0-16e5-4ce5-bf77-3b282a18a267@89de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241210
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 120\,00\nConta: Conta Itaú
+SUMMARY:Capitalização Itaú 04/60
+UID:e990db9e-8782-4d1b-9404-84dd00d88908@e990.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240908
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 170\,99\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Airpods Pro 03/10
+UID:97de85d0-21dd-40e3-a31f-6a76ffbe6516@97de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240822
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 20\,28\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:6f5618ed-eb39-4a46-b19d-e66bc23da930@6f56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241020
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 55\,00\nConta: Conta Itaú
+SUMMARY:Imposto MEI
+UID:5a91349f-1d5c-4c63-8ba0-fd0171536a4d@5a91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240831
+DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ -500\,00\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Adiantamento
+UID:ae035abb-aa0e-4057-ac49-337508323f00@ae03.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240919
 DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 5\,28\nCartão de Crédito: Cartão Itaú Click
 SUMMARY:Minimart
-UID:41c511e4-22cf-4433-9748-8ae66e9be2d5@41c5.org
+UID:ffd6a597-f1a7-4c90-81d8-c075f4f07a56@ffd6.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241129
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 98\,00\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Anuidade
-UID:1bdbaf34-30e7-42c0-b2bf-f00f882c2ddd@1bdb.org
+DTSTART;VALUE=DATE:20240915
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 8\,57\nConta: Conta Itaú
+SUMMARY:Minimart
+UID:38c557e5-479d-426f-b369-e67b9d926aab@38c5.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240821
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 19\,85\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre
-UID:472c56f7-ee8e-4b9b-8aae-60232355b52b@472c.org
+DTSTART;VALUE=DATE:20240910
+DESCRIPTION:Status: Pago\nCategoria: Contas mãe\nTotal: R$ 1.473\,81\nConta: Conta Itaú
+SUMMARY:Cartão Daycoval
+UID:5d9fc572-597a-4445-9fca-bfbbe48134fa@5d9f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.008\,31\nConta: Conta C6 (CPF)
-SUMMARY:Condomínio
-UID:518a0d9b-1bfa-4873-b235-29da477f3c8f@518a.org
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:Status: Cheque Especial\nCategoria: Tarifas Bancárias\nTotal: R$ 48\,36
+SUMMARY:Serasa Enel
+UID:ea415172-3318-45bd-8984-8250fa30724e@ea41.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241205
-DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 279\,00\nConta: Conta C6 (CPF)
-SUMMARY:Enel Apartamento
-UID:77666b7a-a8bb-4ac0-bde4-8186f77f0319@7766.org
+DTSTART;VALUE=DATE:20241010
+DESCRIPTION:Status: A pagar\nCategoria: Empréstimos\nTotal: R$ 933\,19\nConta: Conta Nubank
+SUMMARY:Empréstimo NuBank CPF 02/36
+UID:905ccfce-fa48-4856-acad-fef149878354@905c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240829
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 26\,37\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:f71272a8-698e-4560-8f41-ce408a12c936@f712.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240826
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 316\,80\nConta: Conta Itaú
+SUMMARY:Frutifica
+UID:8c9dd8e6-f816-400e-a7ae-429968963761@8c9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 158\,33\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Colchão 04/12
+UID:6356c383-bf3a-473c-bb6e-cb927592a636@6356.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240822
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 75\,22\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 01/03
+UID:de5ad36d-cead-48fa-8701-38a3ec455aa4@de5a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 75\,54\nConta: Conta C6 (CPF)
-SUMMARY:Tim Celular
-UID:ba54365c-f328-4653-81cb-3895b423f9e5@ba54.org
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 455\,13\nConta: Conta C6 (CPF)
+SUMMARY:Condomínio Lello
+UID:e6000e18-3da2-4b6c-ac21-99cbd91c5f0e@e600.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241110
-DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 120\,00\nConta: Conta Itaú
-SUMMARY:Capitalização 03/60
-UID:751363ff-dba6-4837-ab84-2092343333af@7513.org
+DTSTART;VALUE=DATE:20240810
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 50\,00\nConta: Conta C6 (CPF)
+SUMMARY:Cabelo Sami
+UID:7650248c-7025-42f7-ab69-381800b42d9c@7650.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240822
 DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 4\,99\nConta: Conta C6 (CPF)
 SUMMARY:Minimart
-UID:bcd74289-2d21-4d30-a7ec-30870c0b9430@bcd7.org
+UID:59498683-3586-4bae-9858-8440f270a68d@5949.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240903
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 581\,40\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Macbook 03/10
-UID:5a34978e-db04-4ca1-b874-3cf8730405e8@5a34.org
+DTSTART;VALUE=DATE:20240810
+DESCRIPTION:Status: Pago\nCategoria: Apartamento\nTotal: R$ 279\,00\nConta: Conta C6 (CPF)
+SUMMARY:Enel Apartamento
+UID:14d3021a-6edd-4ed6-8fdd-467ce715a824@14d3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241110
-DESCRIPTION:Status: A pagar\nCategoria: Empréstimos\nTotal: R$ 933\,19\nConta: Conta Nubank
-SUMMARY:Empréstimo NuBank CPF 02/36
-UID:0227f0ef-c4a5-4dba-984d-be7abc134962@0227.org
+DTSTART;VALUE=DATE:20250120
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 55\,00\nConta: Conta Itaú
+SUMMARY:Imposto MEI
+UID:b30d1f32-3283-4eff-a363-fe38cff9afd5@b30d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240914
-DESCRIPTION:Status: A pagar\nCategoria: Farmácia\nTotal: R$ 25\,88\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Drogasil
-UID:41bca4ae-a8cc-4083-8804-50ca39214549@41bc.org
+DTSTART;VALUE=DATE:20241217
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 46\,90\nCartão de Crédito: Cartão BrasilCard
+SUMMARY:Roteador 04/10
+UID:9969679c-5bda-45fa-9282-6e68a9b89479@9969.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240824
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 5\,49\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:cfde0e8e-a918-4620-b854-4ae1cf39e76e@cfde.org
+DTSTART;VALUE=DATE:20240817
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,00\nConta: Conta C6 (CPF)
+SUMMARY:Pão de Mosca
+UID:71b6f105-d240-4e9c-aa01-37a46d9c0d4b@71b6.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240905
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 310\,81\nCartão Pluxee: Pluxee VR
-SUMMARY:Frutifica
-UID:ba1e8d90-5ea7-4609-96a2-cf8d19c36234@ba1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240918
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 0\,00\nCartão de Crédito: Cartão C6 Carbon Black
+DTSTART;VALUE=DATE:20241118
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 99\,90\nCartão de Crédito: Cartão C6 Carbon Black
 SUMMARY:Chat GPT
-UID:c8e84159-6d9a-43f7-8418-78f6d36684f6@c8e8.org
+UID:c6e6f226-87f8-453b-87f9-58bea5d9df5c@c6e6.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240826
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 18\,09\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:2d99b149-0562-47b7-85db-e83a87dfa956@2d99.org
+DTSTART;VALUE=DATE:20240825
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 103\,00\nConta: Conta C6 (CPF)
+SUMMARY:Chama
+UID:e8de0fdf-0f4b-4437-b44c-bdbbbe50f778@e8de.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240829
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 8\,99\nConta: Conta C6 (CPF)
-SUMMARY:Oxxo
-UID:5a7cba25-150b-45d2-9c7c-0773c319d8f6@5a7c.org
+DTSTART;VALUE=DATE:20240808
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 8\,48\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:42520e82-17af-48ac-8d47-ccac5c665e90@4252.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240811
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 2\,98\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:68f6ab71-1bae-4a0d-b049-6436d58860af@68f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 1.410\,00\nConta: Conta C6 (CNPJ)
+SUMMARY:Guia de Imposto
+UID:c8163bad-27c0-4416-95fe-4166c964f232@c816.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240820
+DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 45\,88\nConta: Conta C6 (CPF)
+SUMMARY:Pizza
+UID:4ec8b987-ff93-45fb-8319-60c87205f7e6@4ec8.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240702
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 18\,38\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mini Extra
-UID:a4760a87-3746-42ed-a544-62162ccabb72@a476.org
+DESCRIPTION:Status: Pago\nCategoria: Pets\nTotal: R$ 83\,08\nCartão de Crédito: Cartão Nubank (CNPJ)
+SUMMARY:Petz 02/03
+UID:18b80344-21c4-4449-a037-2017492e019b@18b8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240815
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 266\,80\nCartão Pluxee: Pluxee VR
-SUMMARY:Frutifica
-UID:6d862438-0f97-4f00-a939-180358af6181@6d86.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240827
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,48\nConta: Conta C6 (CPF)
-SUMMARY:Minimart
-UID:d6953beb-ec0b-461b-a7d5-bc42b4f02d58@d695.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241020
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 340\,00\nConta: Conta C6 (CNPJ)
-SUMMARY:Parcelamento Imposto
-UID:64833db0-24fe-44da-935c-c340aa743614@6483.org
+DTSTART;VALUE=DATE:20241105
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 120\,00\nConta: Conta C6 (CPF)
+SUMMARY:Internet Vivo
+UID:42a4ccaa-2249-489e-ac8f-5563d64cac06@42a4.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240823
 DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 11\,09\nConta: Conta C6 (CPF)
 SUMMARY:Mini Extra
-UID:5e7da03b-16c6-4134-8448-81a64d3024a1@5e7d.org
+UID:b480b29d-0a61-461f-b830-e5ca5f07d411@b480.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240810
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 31\,75\nConta: Conta C6 (CPF)
-SUMMARY:Chama
-UID:0668303d-b31e-4f85-a77b-fa8eb8e8d27f@0668.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240828
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 11\,25\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:f23b2995-5207-49fb-88b4-5b69ea5e5b83@f23b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241111
-DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 49\,83\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:BoboVr 03/06
-UID:9fe95380-f88a-4a39-bf71-61b56475e970@9fe9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240812
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 22\,78\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:f8079e9e-4931-4dac-b5f8-559735b9a9e7@f807.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240909
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 300\,00\nConta: Conta Itaú
-SUMMARY:Parcela 01 Cartão Neon
-UID:2c3120cd-353c-46db-a218-8eb571b038b9@2c31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241007
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 75\,54\nConta: Conta Itaú
-SUMMARY:Tim Celular
-UID:be01544e-7c30-4b3f-bb4a-df3ec63e8ac1@be01.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240822
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 10\,00\nConta: Conta C6 (CPF)
-SUMMARY:Padaria
-UID:6fbda0b4-9112-4bfe-8250-2672fee1ba11@6fbd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240825
-DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 44\,98\nConta: Conta C6 (CPF)
-SUMMARY:iFood
-UID:3aef9542-25f5-46d7-b1d5-70f8e32c8756@3aef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241218
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 99\,90\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Chat GPT
-UID:17d71654-2d26-4cdd-a0db-1f883ccca045@17d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240705
-DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 803\,20\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:iPhone 07/10
-UID:0f4b1eca-d5c4-4001-bdcb-5d485eb42114@0f4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240923
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 306\,42\nConta: Conta Itaú
-SUMMARY:Frutifica
-UID:15a787c4-b474-4c8c-8f60-4cb226d3e5d2@15a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240810
-DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 61\,62\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Velija 01/02
-UID:752791bb-9089-42b8-ac6c-f1a4fd087734@7527.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241015
-DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 109\,19\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Ração Gatos 03/03
-UID:f2e1523c-f388-41cb-b347-1f544e9b2569@f2e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240827
-DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 102\,80\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre
-UID:e336c33d-634b-4a3a-a5bf-8131e8dd882e@e336.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240923
-DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 14\,89\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Mini Extra
-UID:22a2d902-c73c-4d73-b485-d86e42ec1be5@22a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240829
-DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 216\,01\nConta: Conta Itaú
-SUMMARY:Juneve
-UID:81fae9e0-6b6e-40bd-8097-0fb32b61847d@81fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241105
-DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 750\,00\nConta: Conta C6 (CPF)
-SUMMARY:PIX
-UID:6ff3d5f4-0909-401b-8cb9-bf208f6ab9ef@6ff3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240819
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 29\,57\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:16a2c768-9749-4977-a0b3-91591fe1d0fe@16a2.org
+DTSTART;VALUE=DATE:20240824
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 5\,49\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:e6a44919-ed35-47d1-953c-903ac9bb8d24@e6a4.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240808
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 41\,92\nConta: Conta C6 (CPF)
-SUMMARY:Mini Extra
-UID:901d70bb-1ce8-4988-89e1-da2d1ea7e3f3@901d.org
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,00\nConta: Conta C6 (CPF)
+SUMMARY:Padaria
+UID:024b26de-efb1-42f9-93c6-02d41b2c9f01@024b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241215
-DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 169\,66\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Convênio PetLove
-UID:3cfa0956-f6b3-4be1-8ce7-da7ea3a21795@3cfa.org
+DTSTART;VALUE=DATE:20241010
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 106\,09\nConta: Conta Itaú
+SUMMARY:Enel
+UID:ac735514-8a56-4178-8840-c5216ee80347@ac73.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240812
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 25\,00\nConta: Conta C6 (CPF)
+SUMMARY:Thiago - Sacos de Lixo
+UID:828825cf-6cf2-4739-b73c-5db78672a221@8288.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240823
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 21\,88\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:23dc338d-8094-4713-bead-3477f6515b14@23dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241115
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 49\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:iCloud
+UID:54cbc1d1-7d96-4d6b-9768-bdef0481b322@54cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240820
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 4\,95\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:2b9088a9-417d-4a7c-b138-c1fda5943593@2b90.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 77\,66\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Amazon 03/03
+UID:c7438d35-9040-46f4-b4ba-9772ed664d3f@c743.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 75\,54\nConta: Conta C6 (CPF)
+SUMMARY:Tim Celular
+UID:2cb6a084-ce64-4db3-b8c3-cf4e5f112ec4@2cb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241105
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 455\,13\nConta: Conta C6 (CPF)
+SUMMARY:Condomínio Lello
+UID:b334c18f-2574-4688-a6a5-3d548b3fb73d@b334.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240818
 DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 24\,00\nConta: Conta C6 (CPF)
 SUMMARY:Pastel
-UID:c98abdba-050e-459f-9da3-bbbb125780f9@c98a.org
+UID:38574aec-dbfa-4a2e-9fdb-170c4ad0a1bc@3857.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
-DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 238\,19\nConta: Conta C6 (CNPJ)
-SUMMARY:Convênio Médico GNDI
-UID:bbb0e29d-9210-4a3a-a76c-4f6cb0ec3ea6@bbb0.org
+DTSTART;VALUE=DATE:20241205
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 750\,00\nConta: Conta C6 (CPF)
+SUMMARY:PIX
+UID:df5dc65f-beb8-4a56-9216-44c206d31545@df5d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
-DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 155\,32\nConta: Conta C6 (CNPJ)
-SUMMARY:Pro Labore
-UID:11a46e24-3db0-40b5-87cf-50dde91e8221@11a4.org
+DTSTART;VALUE=DATE:20240828
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 6\,68\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:a81405a4-d9c2-45b7-acd6-42b23e5aaafa@a814.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250110
-DESCRIPTION:Status: A pagar\nCategoria: Educação\nTotal: R$ 284\,90\nConta: Conta C6 (CPF)
-SUMMARY:Anhembi Morumbi
-UID:23a55d71-8154-4a12-8097-63ce7e3d2c2f@23a5.org
+DTSTART;VALUE=DATE:20240826
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 18\,09\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:81beab9a-9184-4939-9ad1-3b8f1d6e7ae9@81be.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240901
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 6\,00\nConta: Conta C6 (CPF)
-SUMMARY:Padaria
-UID:e28cc2e9-d4d0-4938-b3b9-6221505fe869@e28c.org
+DTSTART;VALUE=DATE:20240808
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 41\,92\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:642274a9-123a-4bc4-a1b0-fb99dbce7359@6422.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240915
-DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 127\,24\nCartão de Crédito: Cartão C6 Carbon Black
-SUMMARY:Convênio PetLove
-UID:fae19b2c-d68c-41cd-b7e1-433c9f3ed628@fae1.org
+DTSTART;VALUE=DATE:20241017
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 46\,90\nCartão de Crédito: Cartão BrasilCard
+SUMMARY:Roteador 02/10
+UID:30e36acb-5130-4570-a507-292442404c3f@30e3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240927
-DESCRIPTION:Status: A pagar\nCategoria: Farmácia\nTotal: R$ 55\,01\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Mercado Livre (Baristar) 02/03
-UID:376c8883-002f-4a7d-a0bd-5e8512d301db@376c.org
+DTSTART;VALUE=DATE:20241105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.976\,28\nConta: Conta C6 (CPF)
+SUMMARY:Aluguel Quinto Andar
+UID:11e44b18-07b1-4e51-b38a-994681542b6b@11e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 14\,89\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Mini Extra
+UID:38ca3e09-73f9-4a8d-892e-7d06285fe8d0@38ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240905
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 310\,81\nCartão Pluxee: Pluxee VR
+SUMMARY:Frutifica
+UID:17584d8a-ef06-4950-8710-becd0a7bea64@1758.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240914
+DESCRIPTION:Status: A pagar\nCategoria: Delivery\nTotal: R$ 59\,90\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Pizza Pan
+UID:a6d58cb4-b8a8-49f5-b03b-0a9ae3c50924@a6d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240817
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 14\,76\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:4cd121e9-e8f6-4ad8-9a99-d75eea25d405@4cd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241003
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 123\,52\nConta: Conta Itaú
+SUMMARY:Recovery 02/06
+UID:c3a9c298-5c64-4287-9e0d-735af62c8ed8@c3a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240826
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 14\,77\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:a9d38d1a-ebb1-4323-ac69-08a21de7ca48@a9d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 120\,00\nConta: Conta Itaú
+SUMMARY:Internet Vivo
+UID:c46afc4e-9483-4de5-b0e2-0ef0f8985ce5@c46a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240820
+DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 188\,39\nConta: Conta C6 (CPF)
+SUMMARY:Shopee
+UID:19910ae6-cdcd-4e61-a428-bf16c8fe4d95@1991.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241109
 DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 158\,33\nCartão de Crédito: Cartão C6 Carbon Black
 SUMMARY:Colchão 06/12
-UID:7b60e4c4-49c3-4bd8-879d-35936bda52b9@7b60.org
+UID:ff5d4e40-d1dc-47a9-9eaf-194e0d3d6cdf@ff5d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240914
-DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 7\,00\nConta: Conta Itaú
+DTSTART;VALUE=DATE:20240819
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 7\,00\nConta: Conta C6 (CPF)
+SUMMARY:AkiTem
+UID:c7f9e389-2c6e-4761-a3b8-c8674fd300d2@c7f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240907
+DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 76\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Genshin Impact
+UID:6cf3b213-e4d8-4d61-ab4a-ea4bf3973ae6@6cf3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240811
+DESCRIPTION:Status: Pago\nCategoria: Transporte\nTotal: R$ 14\,70\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:99 App
+UID:f9cd802f-9609-4167-ac1b-aee4e6ab3ab9@f9cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240922
+DESCRIPTION:Status: A pagar\nCategoria: Farmácia\nTotal: R$ 38\,84\nCartão de Crédito: Cartão Nubank
+SUMMARY:Drogasil
+UID:d9b06119-5633-4aa0-af05-ed9ed5db51f8@d9b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241210
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 600\,00\nConta: Conta C6 (CNPJ)
+SUMMARY:Contador
+UID:cad34ac9-9b54-4ec4-86d7-aedf790bf274@cad3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240828
+DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 69\,80\nConta: Conta C6 (CPF)
+SUMMARY:iFood
+UID:0a80c436-05d7-4344-a546-9a45c10256c6@0a80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240913
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 6\,50\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:89a1d842-e99c-4e67-8728-8be68101162e@89a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241205
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 106\,09\nConta: Conta C6 (CPF)
+SUMMARY:Enel
+UID:414152f6-7871-4240-baa5-2f2643966587@4141.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 120\,00\nConta: Conta C6 (CPF)
+SUMMARY:Internet Vivo
+UID:4d61525e-56fe-47f4-88ab-b1f06cc9b6fd@4d61.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240725
+DESCRIPTION:Status: Pago\nCategoria: Transporte\nTotal: R$ 52\,60\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:99 App
+UID:072bfaca-632c-4fa1-87c8-c6ef8afc13dc@072b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240813
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,38\nConta: Conta C6 (CPF)
 SUMMARY:Minimart
-UID:64b2d1a6-9d0f-4989-9c23-37c5c95663a3@64b2.org
+UID:87272d5f-ec2d-4858-9a8b-810c0ccdc3be@8727.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240904
-DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 9\,90\nCartão de Crédito: Cartão Itaú Click
-SUMMARY:Meli+
-UID:a342f1ac-e43a-401c-b213-84e4fe0f0451@a342.org
+DTSTART;VALUE=DATE:20240913
+DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 58\,84\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:App Meta Quest
+UID:ee179458-41ce-4ba1-ba86-8e9d71e4aac7@ee17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241009
+DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 88\,70\nCartão de Crédito: Cartão Nubank
+SUMMARY:Seguro Celular
+UID:5c6b48f5-8541-4c8b-bdf3-f1c40fee7b8c@5c6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241208
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 170\,99\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Airpods Pro 06/10
+UID:604bf9b7-ba83-4181-bb22-b437b72a9e4b@604b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241205
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 562\,23\nConta: Conta C6 (CPF)
+SUMMARY:Caixa Habitação
+UID:a138b3ac-ef49-48ac-a41c-1d55123b090f@a138.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240826
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 11\,49\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:b7814c45-1a1f-4078-94ea-bba448089157@b781.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240810
+DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 61\,62\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Velija 01/02
+UID:152b7996-12eb-4185-91a5-253751ed60e1@152b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240814
+DESCRIPTION:Status: Pago\nCategoria: Contas mãe\nTotal: R$ 40\,00\nConta: Conta C6 (CPF)
+SUMMARY:Pix extra mãe
+UID:71ef0817-e00f-4db5-999b-84d7b0f8f9f4@71ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DESCRIPTION:Status: A pagar\nCategoria: Delivery\nTotal: R$ 149\,80\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Pizza Prime
+UID:0d634449-a379-4889-827b-ff3dd2c2d86a@0d63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241129
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 98\,00\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Anuidade
+UID:aadc4552-8ab5-4ef9-9383-0568cb73383c@aadc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 49\,83\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:BoboVr 03/06
+UID:15ff7e2d-ae73-4de4-a2a7-1daeb2e76429@15ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:Status: A pagar\nCategoria: Delivery\nTotal: R$ 59\,90\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Pizza
+UID:f84d8818-1cc4-4533-abdc-3feaac889afe@f84d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241109
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 121\,82\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Compra Zelo 06/06
+UID:bea37f4f-cc82-4b52-826a-6f5aad8a521e@bea3.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240909
 DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 10\,09\nConta: Conta Itaú
 SUMMARY:Minimart
-UID:d17dd20c-ef27-4bf3-b935-8447b6bf0681@d17d.org
+UID:dae77e7c-0797-4a7b-99e7-9eaea8e48813@dae7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240921
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 69\,80\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:iFood
+UID:8a81dc09-0108-4dde-864b-5e1a548bbcb2@8a81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240905
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 803\,20\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:iPhone 09/10
+UID:a21e3b3a-e03a-4602-a7e3-adc966b19589@a21e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 97\,48\nConta: Conta C6 (CPF)
+SUMMARY:Farmácia
+UID:0819483a-e754-468e-a3f6-3ef8413943fe@0819.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240702
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 18\,38\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mini Extra
+UID:35bdc8a6-cd8a-4678-b611-aafa873a093a@35bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240913
+DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 47\,28\nCartão de Crédito: Cartão Nubank
+SUMMARY:Areia gatos
+UID:fb1e3ba2-18ee-4dec-a348-c00abb8012fd@fb1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241210
+DESCRIPTION:Status: A pagar\nCategoria: Educação\nTotal: R$ 284\,90\nConta: Conta C6 (CPF)
+SUMMARY:Anhembi Morumbi
+UID:fed33d04-62d3-4e5b-bef7-80a39cd2066f@fed3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241010
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 120\,00\nConta: Conta Itaú
+SUMMARY:Capitalização 02/60
+UID:f7c7014f-9b70-4ae2-b6e8-729949158410@f7c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240815
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 58\,45\nConta: Conta C6 (CPF)
+SUMMARY:Frutifica
+UID:2bd4e7b7-aed4-447a-88c8-13236088994e@2bd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.976\,28\nConta: Conta Itaú
+SUMMARY:Aluguel Quinto Andar
+UID:2d19379f-b281-4187-b13b-7f86bafb5d4e@2d19.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241010
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 300\,00\nConta: Conta C6 (CNPJ)
+SUMMARY:Contador
+UID:67a506d7-97e5-436b-8491-60a61a0f2198@67a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240921
+DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 38\,94\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 02/03
+UID:14325c75-5683-43d9-a603-0a8e7e65f3e1@1432.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241106
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 122\,90\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Meta Quest 3 03/10
+UID:3c609b95-b191-4674-bebb-247cd4c5819a@3c60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241027
+DESCRIPTION:Status: A pagar\nCategoria: Farmácia\nTotal: R$ 55\,00\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre (Baristar) 03/03
+UID:95003577-375e-4ec3-ad83-402dabb660e4@9500.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241110
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 120\,00\nConta: Conta Itaú
+SUMMARY:Capitalização 03/60
+UID:93290b58-9580-471b-9d94-2744ebebfb9a@9329.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240911
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 16\,33\nConta: Conta Itaú
+SUMMARY:Minimart
+UID:661a0dfc-b920-44f9-b96b-469309d2b8dc@661a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241006
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 300\,00\nCartão de Crédito: Cartão Neon
+SUMMARY:Meta Quest 3 03/10
+UID:d4410524-cfa3-4f26-8cdb-d63ef56c6fbf@d441.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.008\,31\nConta: Conta C6 (CPF)
+SUMMARY:Condomínio
+UID:b03371f7-a6de-4950-a800-aa5ca06b7d9d@b033.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241220
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 55\,00\nConta: Conta Itaú
+SUMMARY:Imposto MEI
+UID:32f3c959-d6a5-4f32-9c6a-068a164ee927@32f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:Status: Cheque Especial\nCategoria: Alimentação\nTotal: R$ 72\,44
+SUMMARY:Chama
+UID:9deca509-9283-48a6-83f3-234ce18410dd@9dec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240831
+DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ -50\,00\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Adiantamento
+UID:84253157-b3c0-4aee-97a1-ac515d7b48b4@8425.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241014
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 103\,30\nCartão de Crédito: Cartão BrasilCard
+SUMMARY:AliExpress 02/12
+UID:0b289137-745e-48ed-968c-49950e2f34e3@0b28.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240831
+DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ 499\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Genshin
+UID:82f2922a-900e-4592-b42c-97b067034db4@82f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240821
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 19\,85\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre
+UID:732e3f57-ff3e-401e-97eb-e6661919beef@732e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240827
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,48\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:2a81ec25-c7fb-472f-9ba0-820ae2c508c5@2a81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240906
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 122\,90\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Meta Quest 3 01/10
+UID:249249ab-8b58-4db5-8fa4-9913e007a000@2492.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241214
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 78\,90\nCartão de Crédito: Cartão BrasilCard
+SUMMARY:HomePod Mini 04/10
+UID:ae1f98c5-935c-4034-8f1a-c18c6e6cecbc@ae1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240812
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 22\,78\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:7868c965-97ae-46d5-84f5-55838e076e83@7868.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240810
+DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 120\,76\nConta: Conta C6 (CPF)
+SUMMARY:Farmácia
+UID:f41a33dc-c393-412d-9b91-d43ddb8b7d75@f41a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241127
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 219\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Nintendo Switch 10/10
+UID:9261d408-7d3b-4920-a4f1-0ba5c6f1b9ef@9261.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241008
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 170\,99\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Airpods Pro 04/10
+UID:ce296954-6932-47da-9138-d4b30b2ba143@ce29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241106
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 300\,00\nCartão de Crédito: Cartão Neon
+SUMMARY:Meta Quest 3 04/10
+UID:ba4a8e07-8472-4182-8cd6-fed5c2b2137f@ba4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240926
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 15\,69\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:9a3f3b44-375d-4714-ad52-41770107f2f2@9a3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241215
+DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 169\,66\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Convênio PetLove
+UID:1c76c8cb-a136-4ae6-a726-5c8c2fbaf2d3@1c76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 562\,23\nConta: Conta C6 (CPF)
+SUMMARY:Caixa Habitação
+UID:a0ca2086-9d51-45a8-ba1c-dc3750e1dfff@a0ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240821
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 313\,80\nConta: Conta C6 (CPF)
+SUMMARY:Frutifica
+UID:e4349c39-abb4-4be8-936d-d6f5411ace07@e434.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241210
+DESCRIPTION:Status: A pagar\nCategoria: Empréstimos\nTotal: R$ 933\,19\nConta: Conta Nubank
+SUMMARY:Empréstimo NuBank CPF 02/36
+UID:b90f3c48-9685-4b5f-bdd8-e85fa313cc26@b90f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240821
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 30\,57\nConta: Conta C6 (CPF)
+SUMMARY:Mercado Livre
+UID:cd919b1a-56b7-4598-82cb-b8cd5da12c7d@cd91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240924
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 28\,09\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:0d37b17a-6ccd-4d2f-b9cf-ca906efe60f3@0d37.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240810
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 17\,10\nConta: Conta C6 (CPF)
+SUMMARY:Padaria
+UID:0d99dba8-d216-4d27-82bc-6410e8bc6b26@0d99.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 6\,83\nConta: Conta Itaú
+SUMMARY:IOF
+UID:04e20659-9b78-4162-a190-7af1a647536a@04e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240806
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 327\,20\nCartão Pluxee: Pluxee VR
+SUMMARY:Frutifica
+UID:0495cff7-ceaa-42c5-aaa5-a0712935e4be@0495.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240705
+DESCRIPTION:Status: Pago\nCategoria: Vaping\nTotal: R$ 249\,35\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Nicsalt
+UID:e3f392b3-06ec-485d-9604-e2ef1b787fd2@e3f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240910
+DESCRIPTION:Status: Pago\nCategoria: Tarifas Bancárias\nTotal: R$ 120\,00\nConta: Conta Itaú
+SUMMARY:Capitalização 01/60
+UID:651cf20a-e28d-4cb8-971b-15c928ed5ca9@651c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241110
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 182\,17\nConta: Conta C6 (CPF)
+SUMMARY:Cartão BrasilCard 02/12
+UID:42ea58ce-6838-4b47-a8b0-864745d383d4@42ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240821
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 38\,94\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 01/03
+UID:927e0041-233b-43b7-bebb-99406709ab49@927e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240828
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 11\,25\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:a27ae9e9-7b9c-40da-b742-6323af0690c3@a27a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240911
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 45\,00\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Vivo Easy
+UID:595e8d81-8ee0-4272-b3de-3f637a0ffc64@595e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241015
+DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 109\,19\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Ração Gatos 03/03
+UID:860ec257-2963-44f3-aba3-3cbd3f5810bf@860e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 16\,98\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:217b9723-1719-4d61-a2bf-6d1e040654d9@217b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241108
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 170\,99\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Airpods Pro 05/10
+UID:1fd46272-c675-4ba7-bd51-03865cbb687c@1fd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 97\,48\nConta: Conta C6 (CPF)
+SUMMARY:Farmácia
+UID:c58a798f-eafc-4b14-99af-d746974ea15b@c58a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240908
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 11\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Apple Music
+UID:5020a0cf-bb0e-4a3e-9493-574bad07451e@5020.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241109
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 13\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Youtube Premium
+UID:17afbfcf-5c2a-4b89-a33d-83133b8883dd@17af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 562\,23\nConta: Conta Itaú
+SUMMARY:Caixa Habitação
+UID:8c5b6952-9d55-430e-a865-b51f351d325f@8c5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241010
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 273\,84\nConta: Conta Itaú
+SUMMARY:Claro Residencial
+UID:09b2d218-e477-4b35-90b3-3c0da1491d21@09b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240822
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 35\,35\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 01/03
+UID:cd19d108-6b9f-496f-9842-bac2c9e2d6a4@cd19.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240914
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 29\,49\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:3d1b9d76-a70e-4e0e-a246-3fee2e071208@3d1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240831
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 25\,67\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mini Extra
+UID:4129a5f6-3c2e-4b36-9500-bed2cdfe4b4e@4129.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240827
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 102\,80\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre
+UID:3e197bbb-77dc-480c-aa87-8554b628e144@3e19.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240924
+DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 82\,59\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 02/02
+UID:d03165a0-c924-47c5-85c9-0d83ac4424db@d031.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241008
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 11\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Apple Music
+UID:9e44f1c6-9d1b-4307-ac29-1ec6120032b3@9e44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240921
+DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 76\,90\nCartão de Crédito: Cartão Nubank
+SUMMARY:Genshin
+UID:ec876fbf-d1c6-44e6-be2c-46d642eb901f@ec87.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240906
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 26\,49\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:d1eeae39-dd1b-474d-9ad6-31ca6cc4aaac@d1ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240921
+DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 25\,90\nCartão de Crédito: Cartão Nubank
+SUMMARY:Genshin
+UID:22486463-e470-4992-850a-11bfbbdd5219@2248.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241116
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 87\,47\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Amazon 03/03
+UID:3af29a98-92eb-4881-954c-e47f9ce565fc@3af2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240906
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 44\,65\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:91359772-d1de-42a1-84e6-04065437c2ac@9135.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241205
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 75\,54\nConta: Conta C6 (CPF)
+SUMMARY:Tim Celular
+UID:4e981215-a441-4e9d-a7a9-df71a4181fb3@4e98.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240827
+DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ 25\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Genshin
+UID:25404f46-d035-4f50-9a23-e999c2201b51@2540.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 750\,00\nConta: Conta C6 (CPF)
+SUMMARY:PIX
+UID:233a1257-cc69-4f3f-bf1b-6706923500ec@233a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240830
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 22\,98\nConta: Conta C6 (CPF)
+SUMMARY:Oxxo
+UID:23463fda-508b-4bf0-b1b5-3801ba9ffaa5@2346.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 283\,19\nCartão Pluxee: Pluxee VR
+SUMMARY:Frutifica
+UID:f3129028-2715-4aa8-97eb-97d85f99af7c@f312.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241130
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 9\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Meli+
+UID:ae0794e4-7369-4e9c-9d70-76e13e1acf26@ae07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240815
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 7\,88\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:71891de7-e953-48c4-9267-e6cd4a651d77@7189.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240915
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 20\,39\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:bb5a1a37-d556-4201-85fe-92f101ee4d30@bb5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240805
+DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 46\,43\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:iFood
+UID:867877ae-80b5-40ea-a144-e1604676d9e6@8678.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240913
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 2\,59\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Iof
+UID:8b22c972-231b-4e43-a8e3-c246c91bf22f@8b22.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 38\,94\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 03/03
+UID:b721ab2e-562c-405a-bdb5-43da2d270a86@b721.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240918
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 14\,90\nCartão de Crédito: Cartão Nubank
+SUMMARY:Parcel
+UID:248a5bed-acbf-45ce-a92e-75317c9c8338@248a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241020
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 155\,32\nConta: Conta C6 (CNPJ)
+SUMMARY:Pro Labore
+UID:bfe64d4e-3b09-4871-ab8b-be21c1aa421f@bfe6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240806
+DESCRIPTION:Status: Pago\nCategoria: Vaping\nTotal: R$ 194\,59\nConta: Conta C6 (CPF)
+SUMMARY:Nicsalt
+UID:9b2de6c0-7757-410e-8ee3-a7efa9c7a861@9b2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241205
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 97\,48\nConta: Conta C6 (CPF)
+SUMMARY:Farmácia
+UID:214898f3-ad34-4fb4-b5d5-0553b170acf5@2148.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 306\,42\nConta: Conta Itaú
+SUMMARY:Frutifica
+UID:f1f6f758-c70b-42a0-972a-5a01e5c32c2b@f1f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240914
+DESCRIPTION:Status: A pagar\nCategoria: Farmácia\nTotal: R$ 25\,88\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Drogasil
+UID:15d2d070-95d1-40d1-a030-e86af1dd0ec6@15d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240803
+DESCRIPTION:Status: Pago\nCategoria: Transporte\nTotal: R$ 26\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Uber
+UID:088af386-20de-44ea-b5bd-ace60b05b2dc@088a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240906
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 300\,00\nCartão de Crédito: Cartão Neon
+SUMMARY:Meta Quest 3 02/10
+UID:16201d5a-9085-425d-bff2-855de2b205b5@1620.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240926
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 5\,87\nConta: Conta Itaú
+SUMMARY:Padaria
+UID:1f2933ba-0b78-4195-9fd9-0a7fe196687d@1f29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250110
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 182\,17\nConta: Conta C6 (CPF)
+SUMMARY:Cartão BrasilCard 04/12
+UID:33a126c6-2e1f-4af2-8d2a-5fb14c18844b@33a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241121
+DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 110\,77\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 04/04
+UID:1dbd9a26-158d-461a-9031-0ffae5cf75ee@1dbd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241010
+DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 396\,00\nConta: Conta Itaú
+SUMMARY:Cartão PicPay
+UID:e22578c0-dea6-4dc2-8ca3-15cc6d5bdbd7@e225.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 75\,54\nConta: Conta C6 (CPF)
+SUMMARY:Tim Celular
+UID:cd63e0d8-c006-492e-a531-1652737ac6b6@cd63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 13\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Youtube Premium
+UID:dc496e25-2bac-4135-8bf7-80bf2c7e4bf9@dc49.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240705
+DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 803\,20\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:iPhone 07/10
+UID:bed901dc-6908-476b-85bc-37393f4add0c@bed9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241009
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 121\,82\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Compra Zelo 05/06
+UID:3bfcae50-a9eb-4eb5-a973-2c20bd064ac2@3bfc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.008\,31\nConta: Conta C6 (CPF)
+SUMMARY:Condomínio
+UID:a50330b3-50bf-4879-91d9-7af5ff2f78be@a503.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 273\,84\nConta: Conta C6 (CPF)
+SUMMARY:Claro Residencial
+UID:65d1ce4c-798e-49c2-8e2e-a1091343c671@65d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240922
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 92\,71\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Chama
+UID:d1acd973-5cb2-4b6e-98d5-3668bfe1695b@d1ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 273\,84\nConta: Conta C6 (CPF)
+SUMMARY:Claro Residencial
+UID:43478998-6150-494f-b8b1-89de07117cc7@4347.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240812
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 4\,95\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:c8439092-321c-4626-b79c-798f3513f731@c843.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240726
+DESCRIPTION:Status: Pago\nCategoria: Vaping\nTotal: R$ 160\,37\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Nicsalt
+UID:d3741a89-5eac-49e5-9afd-7fd24614a080@d374.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240827
+DESCRIPTION:Status: Pago\nCategoria: Contas mãe\nTotal: R$ 100\,00\nConta: Conta C6 (CPF)
+SUMMARY:Pix mãe
+UID:d0b0ffe6-c600-42fc-973d-b7cbcbfdbb81@d0b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241110
+DESCRIPTION:Status: A pagar\nCategoria: Empréstimos\nTotal: R$ 933\,19\nConta: Conta Nubank
+SUMMARY:Empréstimo NuBank CPF 02/36
+UID:09bda9ee-fd3d-4679-a39a-299599561d90@09bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241205
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.976\,28\nConta: Conta C6 (CPF)
+SUMMARY:Aluguel Quinto Andar
+UID:7ac4a174-e794-473f-a92e-730a0f47e53c@7ac4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240911
+DESCRIPTION:Status: A pagar\nCategoria: Transporte\nTotal: R$ 36\,97\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Uber
+UID:a762c9e4-4af8-44b8-b36b-746f7e46da0c@a762.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241205
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 279\,00\nConta: Conta C6 (CPF)
+SUMMARY:Enel Apartamento
+UID:fe08c48a-077b-4892-bc0f-84affcba7072@fe08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241020
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 340\,00\nConta: Conta C6 (CNPJ)
+SUMMARY:Parcelamento Imposto
+UID:eff05a4a-bdf2-4da1-ac92-f2361c0b6201@eff0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250110
+DESCRIPTION:Status: A pagar\nCategoria: Empréstimos\nTotal: R$ 933\,19\nConta: Conta Nubank
+SUMMARY:Empréstimo NuBank CPF 02/36
+UID:c72c47c7-fccf-4499-98ae-a423c013ce17@c72c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241011
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 50\,00\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:BoboVr 02/06
+UID:25dd9222-35cd-42d0-8ab7-e9f52d4eb210@25dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 279\,00\nConta: Conta C6 (CPF)
+SUMMARY:Enel Apartamento
+UID:67bc39ac-e5c4-4fd2-a2fa-986dbda78e9f@67bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 300\,00\nConta: Conta Itaú
+SUMMARY:Parcela 01 Cartão Neon
+UID:5a5cb259-045a-4893-a31a-6fa1cfd7b8e5@5a5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 13\,00\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:f70f6d4d-7e80-4457-aa81-8343afc9f3fe@f70f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240918
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 99\,90\nCartão de Crédito: Cartão Nubank
+SUMMARY:Chat GPT
+UID:ae5a6847-0ac7-418d-9ee8-034053e47009@ae5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240812
+DESCRIPTION:Status: Pago\nCategoria: Empréstimos\nTotal: R$ 933\,19\nConta: Conta Nubank
+SUMMARY:Empréstimo NuBank CPF 02/36
+UID:9c6cf177-55ad-4b7b-91e1-4455de7ad391@9c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 750\,00\nConta: Conta C6 (CPF)
+SUMMARY:PIX
+UID:45edeb87-164b-4338-8202-f4ff20fba4cf@45ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240823
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 17\,00\nConta: Conta C6 (CPF)
+SUMMARY:Akitem
+UID:bd4cc3cd-6b83-48cf-a02f-138e96621352@bd4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241205
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.008\,31\nConta: Conta C6 (CPF)
+SUMMARY:Condomínio
+UID:4fdb011b-5083-456e-a871-ab4e519e1df3@4fdb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240906
+DESCRIPTION:Status: A pagar\nCategoria: Delivery\nTotal: R$ 59\,90\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Pizza
+UID:0952f859-34f7-4e1a-b96b-58931cdf0fb5@0952.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240725
 DESCRIPTION:Status: Pago\nCategoria: Transporte\nTotal: R$ 39\,97\nCartão de Crédito: Cartão C6 Carbon Black
 SUMMARY:Uber
-UID:c2f1f8a5-a977-480d-8335-770998fb3907@c2f1.org
+UID:f7b1c770-e217-4527-a6a0-55ba3fbef0ca@f7b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240914
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 7\,00\nConta: Conta Itaú
+SUMMARY:Minimart
+UID:c853c370-5e33-4e4b-801a-6bb7a19c1fa1@c853.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240907
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 32\,97\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:b179b5ae-991e-4dc5-8ce0-309e6292a441@b179.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240815
+DESCRIPTION:Status: Pago\nCategoria: Pets\nTotal: R$ 119\,69\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Ração Gatos 01/03
+UID:48f76d6e-84ab-4b4c-b844-87b0ccd5c948@48f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240918
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 0\,00\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Chat GPT
+UID:2dea8b47-fdcd-4306-a602-dab38e68395b@2dea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240808
+DESCRIPTION:Status: Pago\nCategoria: Contas mãe\nTotal: R$ 1.439\,13\nConta: Conta C6 (CPF)
+SUMMARY:Daycoval
+UID:5858ee6d-6bbe-4205-b9c6-b817434257d7@5858.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 15\,49\nConta: Conta Itaú
+SUMMARY:Minimart
+UID:0248f173-75aa-4c0c-882d-06d488c36b43@0248.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240829
+DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 216\,01\nConta: Conta Itaú
+SUMMARY:Juneve
+UID:86719620-83f5-4f72-91f2-e1886154f97a@8671.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241110
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 300\,00\nConta: Conta C6 (CNPJ)
+SUMMARY:Contador
+UID:9af598de-b2f1-4e2f-a5f4-632e303e8a37@9af5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240911
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 50\,00\nCartão de Crédito: Cartão Neon
+SUMMARY:BoboVr 01/06
+UID:4f7d35d0-04f6-46be-a990-a87f4dfffff3@4f7d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241020
+DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 238\,19\nConta: Conta C6 (CNPJ)
+SUMMARY:Convênio Médico GNDI
+UID:a83f1d78-9bc6-4e8d-8ea7-1865f0d47530@a83f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240819
+DESCRIPTION:Status: Pago\nCategoria: Vaping\nTotal: R$ 224\,60\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:White Cloud
+UID:a46ecce1-5449-4027-8f43-6c96a4946661@a46e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240918
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 10\,24\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Minimart
+UID:c32bb169-48d3-4863-aa62-49d221647e03@c32b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241010
+DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 393\,40\nConta: Conta Itaú
+SUMMARY:Cartão Nubank CNPJ
+UID:7a358a87-a87e-4664-9053-95087fd55d46@7a35.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240920
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 9\,29\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mini Extra
+UID:01433583-3d99-4fe1-8c68-430bbf89ded4@0143.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240821
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 14\,19\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:833682cf-261a-4d29-be78-046d03961fab@8336.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240907
+DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 154\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Genshin Impact
+UID:265ef45b-fdfa-4c03-adec-63de915b2b4e@265e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240702
+DESCRIPTION:Status: Pago\nCategoria: Pets\nTotal: R$ 107\,58\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Petz
+UID:1f33353f-eabd-4aaa-aa79-c5e32b6461e9@1f33.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241230
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 9\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Meli+
+UID:a5b3cf9b-9f10-4eac-b1af-2a1084a98b46@a5b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240815
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 102\,43\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Relax 01/02
+UID:081aea31-9202-40cc-af80-954b8c3088b2@081a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ 52\,50\nConta: Conta Itaú
+SUMMARY:Weed
+UID:9a732018-63ea-4b42-a14b-33b2fb755fa5@9a73.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 13\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Youtube Premium
+UID:cd98e8b6-38ac-46c0-b960-cb62c882b522@cd98.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240829
+DESCRIPTION:Status: Pago\nCategoria: Transporte\nTotal: R$ 37\,00\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:99 App
+UID:468abe9e-17d2-4220-94c5-3390625b04fa@468a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241211
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 50\,00\nCartão de Crédito: Cartão Neon
+SUMMARY:BoboVr 04/06
+UID:26d7ce80-ec58-4153-a498-b6394d3b8ebc@26d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241014
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 78\,90\nCartão de Crédito: Cartão BrasilCard
+SUMMARY:HomePod Mini 02/10
+UID:b620fd4c-93ce-4179-9387-ce2ab9f05703@b620.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240907
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 220\,00\nCartão Pluxee: Pluxee VA
+SUMMARY:Chama
+UID:6f50a1d7-5147-4880-afc2-8a2f2a446f40@6f50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241014
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 78\,90\nCartão de Crédito: Cartão BrasilCard
+SUMMARY:HomePod Mini 01/10
+UID:a00e591e-3765-45a2-99d2-7463ca40ba7b@a00e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241010
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.008\,31\nConta: Conta Itaú
+SUMMARY:Condomínio
+UID:40b80cf8-9f75-452e-9c0c-0d9210ca321c@40b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240915
+DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 127\,24\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Convênio PetLove
+UID:b03dc4d2-968e-4a01-adf9-a90914f7b9a5@b03d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240819
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 13\,97\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:0fd14894-f717-47ee-997c-78e93ae3820f@0fd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240921
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 23\,96\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Minimart
+UID:ff6f472c-5d31-4347-ad12-28b2648f5a8a@ff6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 12\,29\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mini Extra
+UID:41018833-6c9b-4c35-a3de-725f84f61a0a@4101.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240926
+DESCRIPTION:Status: Pago\nCategoria: Pets\nTotal: R$ 88\,92\nConta: Conta Itaú
+SUMMARY:Areia Gatos
+UID:0ce1e3e6-7b2d-42e2-ac09-606e1179db8b@0ce1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240805
+DESCRIPTION:Status: Pago\nCategoria: Tarifas Bancárias\nTotal: R$ 24\,23\nConta: Conta Itaú
+SUMMARY:Juros + IOF Itaú
+UID:890f6f92-a663-4ee0-86b9-1ca8be943de1@890f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 12\,57\nConta: Conta Itaú
+SUMMARY:Minimart
+UID:b11b37c6-ebd4-46c7-9f6d-a1fe6a031b14@b11b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240818
+DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 99\,50\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 01/02
+UID:b4413343-f9cd-4932-a8e4-b405b3ea4d55@b441.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240925
+DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ 105\,00\nConta: Conta Itaú
+SUMMARY:Weed
+UID:7d2cc260-8a51-403f-9fb2-9a407356df02@7d2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240810
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 220\,00\nCartão Pluxee: Pluxee VA
+SUMMARY:Chama
+UID:f99f8db3-ff48-4da1-a4af-18512aca2467@f99f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240920
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 17\,37\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mini Extra
+UID:877cac70-d411-4810-9a31-e929ae5ddfac@877c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240925
+DESCRIPTION:Status: Pago\nCategoria: Contas mãe\nTotal: R$ 33\,38\nConta: Conta Itaú
+SUMMARY:Farmácia
+UID:bf619c63-eab4-49ed-95df-b5e95c2fe3ae@bf61.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241017
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 46\,90\nCartão de Crédito: Cartão BrasilCard
+SUMMARY:Roteador 01/10
+UID:0120a92a-eaba-402c-a521-9fc4072be2fa@0120.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240901
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 7\,50\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:2d5af10b-7f74-4cbd-9e50-ea38f875636f@2d5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250110
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 120\,00\nConta: Conta Itaú
+SUMMARY:Capitalização 05/60
+UID:45e75537-9634-44e7-a3c0-b2aaae9339a2@45e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240829
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 8\,99\nConta: Conta C6 (CPF)
+SUMMARY:Oxxo
+UID:f986e3c4-ae38-4475-8bbc-92aa1589c8ec@f986.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240830
+DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 65\,42\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Mercado Livre
+UID:c561e480-9a0c-4d3f-a10a-508d798d904d@c561.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241011
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 49\,83\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:BoboVr 02/06
+UID:5db77788-dc14-4e78-b0e7-d98ecf9ae66d@5db7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 13\,89\nConta: Conta Itaú
+SUMMARY:Minimart
+UID:7d97aa34-bf82-46b5-ba63-77103770a323@7d97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241205
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 120\,00\nConta: Conta C6 (CPF)
+SUMMARY:Internet Vivo
+UID:647f63ad-2c33-4935-9969-24a8cac451ad@647f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240820
+DESCRIPTION:Status: Pago\nCategoria: Seguros\nTotal: R$ 238\,19\nConta: Conta C6 (CNPJ)
+SUMMARY:Convênio Médico GNDI
+UID:7ecee945-5ef0-41ff-90ef-8907ccb5310d@7ece.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240911
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 49\,85\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:BoboVr 01/06
+UID:9ccedb6b-c0b1-46e9-b0ab-978986cc1807@9cce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240816
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 14\,07\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:385cb2c4-52c9-469c-a438-fe1ff0c633a7@385c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241108
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 11\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Apple Music
+UID:b85d2e82-356b-44b5-930c-eb8a04ede94d@b85d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241117
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 46\,90\nCartão de Crédito: Cartão BrasilCard
+SUMMARY:Roteador 03/10
+UID:831071a3-9313-43e5-ba2f-e8f3d6797796@8310.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240919
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 10\,49\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mini Extra
+UID:d30ae7df-d112-4f07-90d9-ae718ec8c4a1@d30a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241203
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 581\,40\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Macbook 06/10
+UID:9d9606da-6903-411d-a227-a2d2a5b9649e@9d96.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240814
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 20\,66\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:79b7d8b7-1912-48a9-8c94-e340e6b3459b@79b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240902
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 22\,98\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Mini Extra
+UID:f7898c3f-ad37-46ab-bc91-885e20a08b0a@f789.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240819
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 29\,57\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:500d61ca-49fc-4c03-a3c2-f42b855d758c@500d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241120
+DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 238\,19\nConta: Conta C6 (CNPJ)
+SUMMARY:Convênio Médico GNDI
+UID:b58a018f-eca8-41ca-b2ba-be4ebaffdf8d@b58a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240915
+DESCRIPTION:Status: A pagar\nCategoria: Delivery\nTotal: R$ 37\,99\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mestre Pizza
+UID:978d07b7-dcdd-4875-bb86-439b613501cc@978d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240815
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 266\,80\nCartão Pluxee: Pluxee VR
+SUMMARY:Frutifica
+UID:b3298251-8120-4847-be87-66b881858eae@b329.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240914
+DESCRIPTION:Status: A pagar\nCategoria: Transporte\nTotal: R$ 39\,98\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Uber
+UID:e7c86723-bb68-4c51-95fd-351434b54362@e7c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 121\,82\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Compra Zelo 04/06
+UID:19a78fc5-7db2-46f7-9a9c-c9c427adbb15@19a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240831
+DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 158\,37\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:AliExpress
+UID:d192f5c2-8eca-461b-8842-5ba92704b534@d192.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240810
+DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 33\,21\nConta: Conta C6 (CPF)
+SUMMARY:Mercado Livre
+UID:2c239533-7483-48ad-826e-bd97cc4183fe@2c23.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240924
+DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 80\,01\nConta: Conta Itaú
+SUMMARY:Mercado Livre
+UID:8d0d14de-88e4-475d-8af0-1dc5949ff45c@8d0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 25\,67\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mini Extra
+UID:0ed87d80-796a-4976-b59a-6d7a6390bc8a@0ed8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241114
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 103\,30\nCartão de Crédito: Cartão BrasilCard
+SUMMARY:AliExpress 03/12
+UID:2795f57f-93d9-4f78-b47b-0f4b748d4f98@2795.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 455\,13\nConta: Conta Itaú
+SUMMARY:Condomínio Lello
+UID:6e8180b9-c50e-4f3a-98a3-00700a2b71f4@6e81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240810
+DESCRIPTION:Status: Pago\nCategoria: Apartamento\nTotal: R$ 562\,23\nConta: Conta C6 (CPF)
+SUMMARY:Caixa Habitação
+UID:78aec6f5-7efd-4b71-8f1c-8aeaa16d8450@78ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240921
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 21\,48\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mini Extra
+UID:1cfd98f9-dcff-4a0a-a8b9-0fb1787009e0@1cfd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240817
+DESCRIPTION:Status: Pago\nCategoria: Assinaturas\nTotal: R$ 4\,95\nConta: Conta C6 (CPF)
+SUMMARY:iFood Clube
+UID:b231a526-5c50-4b8c-bc50-974ae448aeee@b231.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250110
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 300\,00\nConta: Conta C6 (CNPJ)
+SUMMARY:Contador
+UID:44252eaf-6a95-4fd3-8f36-59c829bcf42c@4425.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240915
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 49\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:iCloud
+UID:ff436496-e04d-4baa-83ab-d300b791c558@ff43.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240822
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 2\,98\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:03fd2bc4-2a4d-4f09-8d0a-65cdefbf00c2@03fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240726
+DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 119\,92\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre
+UID:046fd899-2096-4121-82c1-3a835aac612b@046f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241105
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 562\,23\nConta: Conta C6 (CPF)
+SUMMARY:Caixa Habitação
+UID:534f8240-7181-4478-8ece-d3f9e467263c@534f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240830
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,58\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:3c929340-b1b5-4e05-be59-793e5c49e8be@3c92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240914
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 20\,67\nConta: Conta Itaú
+SUMMARY:Oxxo
+UID:501a3920-e22d-4dd2-ac79-f6c89ddaa52e@501a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240922
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 41\,90\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Bacio di Latte
+UID:dadee896-4658-4088-b663-9d162808281d@dade.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 26\,38\nConta: Conta Itaú
+SUMMARY:Minimart
+UID:1c47f76a-4294-4614-9b47-cac792d92e26@1c47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 158\,33\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Colchão 07/12
+UID:d9ae8c84-3f17-4931-be4a-25b3cc7897ef@d9ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240921
+DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 110\,77\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 02/04
+UID:b34efae5-9133-4214-a2fa-d9e544b08d37@b34e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 2\,30\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Extra
+UID:3cc3f3b0-11f6-4776-9a8a-c0714d51b810@3cc3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241011
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 50\,00\nCartão de Crédito: Cartão Neon
+SUMMARY:BoboVr 02/06
+UID:6146ebb1-4ae3-42e5-97f0-fda9e0853db5@6146.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241014
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 103\,30\nCartão de Crédito: Cartão BrasilCard
+SUMMARY:AliExpress 01/12
+UID:e7d25139-8fdd-43b1-959b-cc9128e8dbfd@e7d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240810
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 31\,75\nConta: Conta C6 (CPF)
+SUMMARY:Chama
+UID:07027fc6-46da-4bb0-b6a0-5b1bfb3e49d6@0702.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241120
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 340\,00\nConta: Conta C6 (CNPJ)
+SUMMARY:Parcelamento Imposto
+UID:5f9ff3e6-f62a-4192-9858-908acfe7031e@5f9f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 31\,04\nConta: Conta Itaú
+SUMMARY:Frutifica
+UID:2a79dd24-47a1-48e0-9d83-f6ba381d17b3@2a79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:Status: Cheque Especial\nCategoria: Entretenimento\nTotal: R$ 550\,00
+SUMMARY:Pix Genshin
+UID:957bb6eb-44eb-4863-b871-7dd4c5ea54ba@957b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241015
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 49\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:iCloud
+UID:91a50e90-64e3-4109-b2c6-02772a6244c3@91a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240911
+DESCRIPTION:Status: A pagar\nCategoria: Transporte\nTotal: R$ 49\,92\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Uber
+UID:7ef6130d-151b-44a2-9b9f-ef35b86f7a44@7ef6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240811
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 35\,45\nConta: Conta C6 (CPF)
+SUMMARY:Mercadinho
+UID:d8e59dd7-d153-499c-9f16-ed9892d5b07a@d8e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240702
+DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 581\,40\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Macbook 01/10
+UID:91ef024f-8b2d-429b-9ef7-e0a4d3a229c5@91ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241110
+DESCRIPTION:Status: A pagar\nCategoria: Educação\nTotal: R$ 284\,90\nConta: Conta C6 (CPF)
+SUMMARY:Anhembi Morumbi
+UID:e682280b-d816-4121-93a8-4ee495be190c@e682.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241020
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 810\,00\nConta: Conta C6 (CNPJ)
+SUMMARY:Guia de Imposto
+UID:3f78cd3d-cd0e-4bad-bf4e-0f101ef55467@3f78.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240809
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,00\nConta: Conta C6 (CPF)
+SUMMARY:Padaria
+UID:00100e30-c0f4-47af-9be1-7705aaac88dd@0010.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240807
+DESCRIPTION:Status: Pago\nCategoria: Vaping\nTotal: R$ 6\,50\nConta: Conta C6 (CPF)
+SUMMARY:Cigarro
+UID:709ad71e-9f63-45f7-bb4f-0e098f6b26f1@709a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241015
+DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 127\,24\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Convênio PetLove
+UID:01338660-a7d4-4aa2-8327-c0d8c3d54a90@0133.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240906
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 199\,62\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Cápsulas
+UID:1107bbcf-9991-40b4-b5f5-c9e0529375e9@1107.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241220
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 810\,00\nConta: Conta C6 (CNPJ)
+SUMMARY:Guia de Imposto
+UID:2c50b377-2964-4d68-89a4-45e90fe5c2c7@2c50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241220
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 155\,32\nConta: Conta C6 (CNPJ)
+SUMMARY:Pro Labore
+UID:d86fbe88-8e7f-434c-bb80-5a78857a37bf@d86f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240905
+DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 24\,99\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Assinatura PetLove 03/03
+UID:d1e6fb9e-b7e5-4a11-87d4-9c8c5eae51e5@d1e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 97\,48\nConta: Conta Itaú
+SUMMARY:Farmácia
+UID:a7390993-0715-462a-967e-b265f1487234@a739.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240907
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 177\,82\nConta: Conta Itaú
+SUMMARY:Chama
+UID:98138d91-b7ec-4e4a-8525-986531659b5c@9813.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241114
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 78\,90\nCartão de Crédito: Cartão BrasilCard
+SUMMARY:HomePod Mini 03/10
+UID:7cbbd029-b78a-416b-9381-d97db2190f8c@7cbb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 155\,32\nConta: Conta C6 (CNPJ)
+SUMMARY:Pro Labore
+UID:3e7671f2-7839-4df0-8dc3-f7da722dffe8@3e76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240726
+DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 125\,40\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre
+UID:25ef5b30-ef82-4294-a9fe-cc1d7181fa65@25ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240811
+DESCRIPTION:Status: Pago\nCategoria: Empréstimos\nTotal: R$ 334\,30\nConta: Conta C6 (CPF)
+SUMMARY:Empréstimo Recarga Pay
+UID:40e57c07-8879-412a-9739-8e42e2fc97a1@40e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241022
+DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 35\,34\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 03/03
+UID:1c7729f6-a222-4179-bfa8-701073ed0ae9@1c77.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:Status: Cheque Especial\nCategoria: Contas mãe\nTotal: R$ 100\,00
+SUMMARY:Pix mãe
+UID:e1f14959-fd23-4cf1-8c28-69e43cd056fb@e1f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241103
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 581\,40\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Macbook 05/10
+UID:8d7a01da-80cf-402a-b9be-5f062edd6277@8d7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240825
+DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 44\,98\nConta: Conta C6 (CPF)
+SUMMARY:iFood
+UID:0dd0bba1-deec-4323-9dd4-c775d6026bf7@0dd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240914
+DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ 175\,00\nConta: Conta Itaú
+SUMMARY:Tatuagem
+UID:d7b8140d-7245-4af3-b562-1ba4e27e0dc5@d7b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241010
+DESCRIPTION:Status: A pagar\nCategoria: Educação\nTotal: R$ 284\,90\nConta: Conta Itaú
+SUMMARY:Anhembi Morumbi
+UID:cc90796f-4c06-4458-862f-1ab5eb94d727@cc90.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241211
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 49\,83\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:BoboVr 04/06
+UID:fcfb8ed9-fdad-468d-935e-dfee65fc3b3c@fcfb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 50\,00\nCartão de Crédito: Cartão Neon
+SUMMARY:BoboVr 03/06
+UID:0f60651d-a946-431c-9085-bc56c16fd201@0f60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241009
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 158\,33\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Colchão 05/12
+UID:9bcd7b3c-80fe-4a42-820e-9543a5308944@9bcd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240820
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 13\,49\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:c94bf901-07ec-402a-8f1d-ef80758a0cbd@c94b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240825
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 24\,42\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:47dda25a-541a-4f11-9d65-6690259f9394@47dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241027
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 219\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Nintendo Switch 09/10
+UID:5991a149-623b-4917-90a8-62b48422df0d@5991.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240821
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 110\,77\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 01/04
+UID:f8070c66-36e7-4343-8de4-8b6f382afefd@f807.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:Status: Pago\nCategoria: Tarifas Bancárias\nTotal: R$ 0\,12\nConta: Conta Itaú
+SUMMARY:IOF
+UID:493b0429-6e90-4d92-8571-37e32a3e4397@493b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 87\,47\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Amazon 03/03
+UID:f457bbaf-eae7-4aa1-8d10-fd22ef67ab3a@f457.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 110\,77\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 03/04
+UID:357cd31b-901b-4f66-8679-8ff0c79b86b4@357c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240919
+DESCRIPTION:Status: A pagar\nCategoria: Delivery\nTotal: R$ 44\,99\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Esfihas
+UID:cd078474-5246-4374-aa09-8aba1d292071@cd07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241214
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 103\,30\nCartão de Crédito: Cartão BrasilCard
+SUMMARY:AliExpress 04/12
+UID:e679717f-1a89-480c-bb27-c3901e9a61d6@e679.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240821
+DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 47\,92\nConta: Conta C6 (CPF)
+SUMMARY:Mercado Livre
+UID:7ce401dd-43e5-407e-8137-08f0e79e17db@7ce4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240926
+DESCRIPTION:Status: Pago\nCategoria: Pets\nTotal: R$ 10\,00\nConta: Conta Itaú
+SUMMARY:Petisco Gatos
+UID:425942f0-8389-4116-8ea0-52f1e951a9f8@4259.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:Status: Cheque Especial\nCategoria: Tarifas Bancárias\nTotal: R$ 123\,52
+SUMMARY:Serasa 01/06
+UID:a450be58-34b3-453c-9101-e717a4253a01@a450.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240827
+DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 55\,01\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre (Baristar) 01/03
+UID:65466901-bbdc-4e03-8d18-728d7e9dcc4c@6546.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240918
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 99\,50\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 02/02
+UID:ec99ec55-4680-4143-b37b-e91568e5a87b@ec99.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240927
+DESCRIPTION:Status: A pagar\nCategoria: Farmácia\nTotal: R$ 55\,01\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre (Baristar) 02/03
+UID:bdd35524-3a8c-4b11-928e-e0da6423d09b@bdd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240818
+DESCRIPTION:Status: Pago\nCategoria: Assinaturas\nTotal: R$ 99\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Chat GPT
+UID:feb8c519-090b-4eb1-9145-153ebc3b65d1@feb8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240901
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 6\,00\nConta: Conta C6 (CPF)
+SUMMARY:Padaria
+UID:f8a7aacc-cdb3-41d4-97dd-2026c5301037@f8a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240817
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 31\,22\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:700bcc6a-1812-44ef-b178-295ebecfee3e@700b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241003
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 581\,40\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Macbook 04/10
+UID:c9c2c020-d8df-4a49-9039-91546f82b23c@c9c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240822
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 10\,00\nConta: Conta C6 (CPF)
+SUMMARY:Padaria
+UID:69ea43df-0e5d-4e24-9039-a92abdb95b5a@69ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240805
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 27\,49\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:e91e7b0e-5301-49f4-91f5-4845cf91497c@e91e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240824
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 5\,49\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:f765a21e-d625-4c2f-9b4c-ecc1023208bd@f765.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240821
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 54\,21\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre
+UID:d79f5989-e467-438b-889f-5e7b40247350@d79f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 20\,00\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre
+UID:86f99ae5-2093-4a5f-8e87-de68a0238259@86f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240927
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 53\,47\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:5b2e1d67-b1fb-4454-9b90-48f333e2119b@5b2e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240815
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 25\,24\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:f0e83c66-fd55-4efd-9958-3f398a7accc8@f0e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240914
+DESCRIPTION:Status: A pagar\nCategoria: Farmácia\nTotal: R$ 63\,67\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Drogasil
+UID:e51bf606-be19-4229-8342-c8c7c1035894@e51b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240915
+DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 102\,43\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Relax 02/02
+UID:90f3dcca-3915-4227-abf6-96a2e3bb73b9@90f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241220
+DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 238\,19\nConta: Conta C6 (CNPJ)
+SUMMARY:Convênio Médico GNDI
+UID:bb6bab45-03f8-41d2-a64d-ae2fc32e7f6e@bb6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240911
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 10\,00\nConta: Conta Itaú
+SUMMARY:Café Ginga
+UID:dc327c44-2c72-43a9-b2cb-4d1fce37c86a@dc32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241215
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 49\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:iCloud
+UID:4b2412f0-a471-4c23-8c65-274dd878c4b7@4b24.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240918
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 6\,00\nConta: Conta Itaú
+SUMMARY:Padaria
+UID:612c543b-2569-4675-b6bf-d9734a8a55e4@612c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240707
+DESCRIPTION:Status: Pago\nCategoria: Shopping\nTotal: R$ 105\,20\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Loccitane
+UID:6fd43888-cf89-4f9a-b503-d7b5ce3ebe41@6fd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240922
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 15\,27\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mini Extra
+UID:ff1703ce-6ded-4b38-8a1f-677aebaa4083@ff17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240922
+DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 35\,35\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 02/03
+UID:a5df6570-5d81-4292-9887-369cebbc95ee@a5df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241030
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 9\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Meli+
+UID:8ddfc6b8-3a64-458f-8cb8-b728210b6177@8ddf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240812
+DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 44\,98\nConta: Conta C6 (CPF)
+SUMMARY:iFood
+UID:bed10d45-b4d8-4d66-88aa-9232b64a0b39@bed1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241018
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 99\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Chat GPT
+UID:7eb51a2f-27f3-4ac9-9193-bcd6a3e7d337@7eb5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240821
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 7\,88\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:2e1ee60b-8c65-48fa-ab40-a2f02ff32ad6@2e1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240922
+DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 75\,22\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 02/03
+UID:642ec2e5-0b97-4fc0-a4d7-18ef13c8e685@642e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241203
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 64\,87\nConta: Conta C6 (CPF)
+SUMMARY:Recovery 04/06
+UID:78cf5a82-944f-417b-ad99-88e9eec503b6@78cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241005
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 803\,20\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:iPhone 10/10
+UID:112b08a3-67b8-4b17-9641-8552813956bf@112b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250103
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 64\,87\nConta: Conta C6 (CPF)
+SUMMARY:Recovery 05/06
+UID:99dbc6b2-db21-4107-8b71-0718bda4698f@99db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241205
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 273\,84\nConta: Conta C6 (CPF)
+SUMMARY:Claro Residencial
+UID:1dbda753-d3f7-41ca-aa40-60c94f580753@1dbd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240927
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 219\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Nintendo Switch 08/10
+UID:9f5d992c-8e7b-4a5f-94b0-15c9daa5606a@9f5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240909
+DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 88\,70\nCartão de Crédito: Cartão Nubank
+SUMMARY:Seguro Celular
+UID:40b0d20b-f41f-4bbd-8fb5-5847333744cc@40b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241109
+DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 88\,70\nCartão de Crédito: Cartão Nubank
+SUMMARY:Seguro Celular
+UID:68f52539-fc7e-42a4-b90a-787d97287f07@68f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241016
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 87\,47\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Amazon 03/03
+UID:24df54be-90f7-49b9-9f87-294e75f2f566@24df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241029
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 98\,00\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Anuidade
+UID:c34b6dba-336a-4be2-abe5-afeb9bf54c85@c34b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241218
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 99\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Chat GPT
+UID:ee3b5590-8099-4148-9ee0-19bfad04975a@ee3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240907
+DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 99\,35\nConta: Conta Itaú
+SUMMARY:Farmácia
+UID:c7e8b407-1c2d-4098-86d1-14abd3c5a174@c7e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 581\,40\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Macbook 03/10
+UID:24910770-8fc0-4fe6-aecd-6d06774ab7dc@2491.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241208
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 11\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Apple Music
+UID:710ad4cb-4fb8-4aac-a585-3b841d2d058f@710a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241206
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 122\,90\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Meta Quest 3 04/10
+UID:c8c0f570-133c-4b6a-b8dc-9e50a78019a9@c8c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241120
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 1.318\,80\nConta: Conta C6 (CNPJ)
+SUMMARY:Guia de Imposto
+UID:04c787d1-e500-4e84-a35a-5138a58bcbd8@04c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 1.976\,28\nConta: Conta C6 (CPF)
+SUMMARY:Aluguel Quinto Andar
+UID:08393f19-5f38-46fa-8cd2-9bf9d1dee446@0839.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250110
+DESCRIPTION:Status: A pagar\nCategoria: Educação\nTotal: R$ 284\,90\nConta: Conta C6 (CPF)
+SUMMARY:Anhembi Morumbi
+UID:ff80ddbb-291b-4199-9006-2ad6753df87f@ff80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241205
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 455\,13\nConta: Conta C6 (CPF)
+SUMMARY:Condomínio Lello
+UID:3e61922c-0bc9-4051-ba59-7193434e7839@3e61.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240922
+DESCRIPTION:Status: A pagar\nCategoria: Entretenimento\nTotal: R$ 76\,90\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Genshin
+UID:fcde8285-c222-498f-a57d-9becb54d38da@fcde.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241006
+DESCRIPTION:Status: A pagar\nCategoria: Shopping\nTotal: R$ 122\,90\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Meta Quest 3 02/10
+UID:4685f357-7edb-4210-a658-cf4f45baf6fa@4685.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240925
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 16\,37\nConta: Conta Itaú
+SUMMARY:Minimart
+UID:3746e63f-9bdb-4805-b1b2-42be8422bced@3746.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240830
+DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 69\,80\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:iFood
+UID:828be386-9a9a-4a9a-9fb0-30a47a1a75cd@828b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240922
+DESCRIPTION:Status: A pagar\nCategoria: Alimentação\nTotal: R$ 169\,23\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Outback
+UID:f1eeb367-6e7f-4d6d-b820-888b23a063a6@f1ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241229
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 98\,00\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Anuidade
+UID:eb0d7768-4b6d-4dce-81a9-7fd92a2e9699@eb0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240913
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,28\nConta: Conta Itaú
+SUMMARY:Minimart
+UID:cbde154b-f733-49d6-93a1-59dea0068edd@cbde.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240914
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 10\,00\nConta: Conta Itaú
+SUMMARY:Padaria
+UID:c9eda06d-b83c-4716-ad94-d6d0f7943130@c9ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240911
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 8\,00\nConta: Conta Itaú
+SUMMARY:Brownie Ginga
+UID:8f4bf8e4-59e7-4199-8557-cf77119a6f20@8f4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241115
+DESCRIPTION:Status: A pagar\nCategoria: Pets\nTotal: R$ 169\,66\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Convênio PetLove
+UID:c3d7d959-7a75-473d-b9a5-52835692ef93@c3d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240830
+DESCRIPTION:Status: Pago\nCategoria: Gastos Diversos\nTotal: R$ 29\,99\nConta: Conta C6 (CPF)
+SUMMARY:Drogasil
+UID:a97bbb3f-a766-424a-b437-70d350d20de1@a97b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:Status: Cheque Especial\nCategoria: Alimentação\nTotal: R$ 29\,26
+SUMMARY:Oxxo
+UID:a9057aea-5c87-47a6-816b-98065e162903@a905.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240925
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 53\,38\nConta: Conta Itaú
+SUMMARY:Mini Extra
+UID:c81cdd35-ac54-43d3-8009-f126b066ee92@c81c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240901
+DESCRIPTION:Status: Pago\nCategoria: Delivery\nTotal: R$ 118\,80\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Pizza Prime
+UID:ec551b20-08ed-44a1-af98-e2791ade3f4c@ec55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 106\,09\nConta: Conta C6 (CPF)
+SUMMARY:Enel
+UID:85c144f4-d707-43db-ab06-eace7267cc03@85c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240924
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 6\,79\nConta: Conta Itaú
+SUMMARY:Minimart
+UID:1e5784f2-cadc-4f34-812d-2a8dcf182248@1e57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250120
+DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 238\,19\nConta: Conta C6 (CNPJ)
+SUMMARY:Convênio Médico GNDI
+UID:a619b538-b0a5-444e-bc95-4f7a76244232@a619.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240929
+DESCRIPTION:Status: A pagar\nCategoria: Tarifas Bancárias\nTotal: R$ 98\,00\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Anuidade
+UID:4d7fd683-81a3-4330-8a79-86e4fd179db4@4d7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240818
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,90\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:2e719fe8-f0f5-4fbf-9713-3c095e3c3d0a@2e71.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240802
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 202\,94\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre
+UID:e04184fe-058c-48ec-b25f-e848f0a30186@e041.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240910
+DESCRIPTION:Status: A pagar\nCategoria: Farmácia\nTotal: R$ 61\,61\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Velija 02/02
+UID:1a6f9749-7f88-4fc2-8387-d16b885e9ef5@1a6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240927
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 12\,00\nConta: Conta Itaú
+SUMMARY:Padaria
+UID:32fd8955-b078-4127-b7dd-b28811bc7695@32fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240910
+DESCRIPTION:Status: Pago\nCategoria: Tarifas Bancárias\nTotal: R$ 9\,07\nConta: Conta Itaú
+SUMMARY:Juros Cheque Especial
+UID:1e47d851-8caf-4d87-b4bd-2c254e6a3139@1e47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 106\,09\nConta: Conta C6 (CPF)
+SUMMARY:Enel
+UID:0ab75c1e-d504-4d1a-a8bd-67aff3235d03@0ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240831
+DESCRIPTION:Status: Pago\nCategoria: Entretenimento\nTotal: R$ 49\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Genshin
+UID:52a4f93e-e5a1-4df0-ba6c-a69852443cf5@52a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240819
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,00\nConta: Conta C6 (CPF)
+SUMMARY:Padaria
+UID:a26d5295-a220-4687-9f28-1423b92ed87b@a26d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240907
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 44\,48\nConta: Conta Itaú
+SUMMARY:Chama
+UID:45d2a399-3d96-4c19-a7ee-092cae30dac8@45d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240830
+DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 85\,97\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Drogasil
+UID:9484eb08-bc53-4c18-91ba-f7a3b1b00c9b@9484.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DESCRIPTION:Status: A pagar\nCategoria: Seguros\nTotal: R$ 88\,70\nCartão de Crédito: Cartão Nubank
+SUMMARY:Seguro Celular
+UID:c6ad31b3-bdfa-4510-b1c6-e2a13c02d171@c6ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241105
+DESCRIPTION:Status: A pagar\nCategoria: Apartamento\nTotal: R$ 279\,00\nConta: Conta C6 (CPF)
+SUMMARY:Enel Apartamento
+UID:2b23faf4-32c8-419b-84f3-8f293f7437f1@2b23.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240821
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 10\,58\nConta: Conta C6 (CPF)
+SUMMARY:Mini Extra
+UID:67b1236a-9f85-42fc-bf9f-32acc4f51a56@67b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DESCRIPTION:Status: A pagar\nCategoria: Contas mãe\nTotal: R$ 75\,54\nConta: Conta Itaú
+SUMMARY:Tim Celular
+UID:7a2f8fe1-0a47-4f23-89b6-f0bc02f614e1@7a2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DESCRIPTION:Status: Cheque Especial\nCategoria: Alimentação\nTotal: R$ 38\,00
+SUMMARY:Cereja
+UID:022d8f62-107e-4f06-8c4d-b45eeeb3066b@022d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240806
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 10\,44\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:0913afc6-c85a-4e63-b91e-14a53297e89f@0913.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241022
+DESCRIPTION:Status: A pagar\nCategoria: Gastos Diversos\nTotal: R$ 75\,21\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Mercado Livre 03/03
+UID:27985be8-d2a5-424e-9f81-dd0a13cacc98@2798.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240904
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 9\,90\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Meli+
+UID:32f65da8-632d-4bf5-96ac-a59e8c52e4b8@32f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241220
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 340\,00\nConta: Conta C6 (CNPJ)
+SUMMARY:Parcelamento Imposto
+UID:71a22fde-1f89-4572-bee1-7cc62eef8fe3@71a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240906
+DESCRIPTION:Status: Pago\nCategoria: Vaping\nTotal: R$ 185\,78\nConta: Conta Itaú
+SUMMARY:Nicsalt
+UID:c97f0acb-615c-4a81-9822-7439af361939@c97f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240804
+DESCRIPTION:Status: Pago\nCategoria: Farmácia\nTotal: R$ 354\,18\nCartão de Crédito: Cartão Itaú Click
+SUMMARY:Juneve
+UID:f84b8fd3-5067-48f2-a120-6571030e27e5@f84b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241120
+DESCRIPTION:Status: A pagar\nCategoria: Contas Jurídicas\nTotal: R$ 55\,00\nConta: Conta Itaú
+SUMMARY:Imposto MEI
+UID:042e4d6d-1945-4d0b-965f-bca7bcd4ff5a@042e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241009
+DESCRIPTION:Status: A pagar\nCategoria: Assinaturas\nTotal: R$ 13\,90\nCartão de Crédito: Cartão C6 Carbon Black
+SUMMARY:Youtube Premium
+UID:0574845d-5427-4ca7-b0ef-711857606969@0574.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240807
+DESCRIPTION:Status: Pago\nCategoria: Alimentação\nTotal: R$ 9\,94\nConta: Conta C6 (CPF)
+SUMMARY:Minimart
+UID:a3053ea1-741f-45a5-88f5-04c070e256a6@a305.org
 END:VEVENT
 END:VCALENDAR
